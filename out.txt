@@ -1,0 +1,1996 @@
+Accounts.header.emailInvalid	Veuillez indiquer une adresse électronique valide.
+RegisterForm.title.text	
+RegisterForm.firstNameField.label	
+RegisterForm.firstNameField.placeholder	
+RegisterForm.lastNameField.label	
+RegisterForm.lastNameField.placeholder	
+RegisterForm.emailField.label	
+RegisterForm.emailField.placeholder	
+RegisterForm.passwordField.label	
+RegisterForm.passwordField.placeholder	
+RegisterForm.signInCta.label	
+RegisterForm.haveAccount.question	
+RegisterForm.haveAccount.signUpLabel	
+RegisterSuccess.title.text	
+RegisterSuccess.signIn.text	
+RegisterSuccess.messageOne.text	
+RegisterSuccess.messageTwo.text	
+ResetPasswordForm.title.text	
+ResetPasswordForm.subtitle.text	
+ResetPasswordForm.emailField.label	
+ResetPasswordForm.emailField.placeholder	
+ResetPasswordForm.cancelReset.label	
+ResetPasswordForm.signInCta.label	
+SignInForm.title.text	
+SignInForm.emailField.label	
+SignInForm.emailField.placeholder	
+SignInForm.passwordField.label	
+SignInForm.passwordField.placeholder	
+SignInForm.forgotPassword.label	
+SignInForm.signInCta.label	
+SignInForm.signInWithLinkCta.label	
+SignInForm.signInWithPasswordCta.label	
+SignInForm.noAccount.question	
+SignInForm.noAccount.signUpLabel	
+SignInForm.resendVerifyCta.label	
+Accounts.header.signInSuccess	
+Accounts.header.signInErrorGeneral	
+Accounts.header.signInInvalidCredentialsError	Le mot de passe ou votre adresse électronique n'est pas correct. Veuillez passer en revue ou corriger votre adresse électronique.
+Accounts.header.signInNeedVerify	Votre compte n'est pas vérifié. Nous vous avons envoyé un courriel électronique pour compléter votre inscription en compte.
+Accounts.header.newUserPasswordTooShort	Le nouveau mot de passe doit comporter de 8 à 32 caractères (sans espaces).
+Accounts.header.newUserFirstNameBlank	Votre prénom doit être rempli.
+Accounts.header.newUserLastNameBlank	Votre nom doit être rempli.
+Accounts.header.registerSuccess	
+Accounts.header.newUserErrorGeneral	
+Accounts.header.userExists	Il semble que vous ayez déjà un compte avec nous. Veuillez essayer de vous connecter à nouveau.
+Accounts.header.resetPasswordSuccess	
+Accounts.header.resetPasswordErrorGeneral	
+Accounts.header.resetPasswordMissingError	Désolé, il n'y a pas de compte associé à cette adresse électronique.
+base-ui.autocomplete.defaultLoadingPlaceholder	...
+base-ui.autocomplete.defaultNoResultsPlaceholder	Aucun résultat
+base-ui.BigNumberBox.outlineLabelFeatured	En vedette
+base-ui.BigNumberBox.outlineLabelSponsored	Commandité
+base-ui.cityInput.placeholder	Veuillez entrer la ville
+base-ui.gauge.low	faible
+base-ui.gauge.medium	moyen
+base-ui.gauge.high	élevé
+base-ui.email.field.placeholder	
+base-ui.postal.code.field.placeholder	
+base-ui.modalContainer.closeModalText	
+base-ui-modalContainer.homepageLinkText	
+base-ui.QuestionMarkButton.ariaLabel	Aider
+base-ui.star-reviews-some	{reviewCount, plural, one {{reviewCount, number} commentaire} other {{reviewCount, number} commentaires}}
+base-ui.star-reviews-none	Pas encore d'commentaires
+base-ui.star-rating-some	{approximateStars} sur {maxStars} étoiles
+base-ui.StepDisplay.step-text	
+base-ui.WizardPageTemplate.DefaultContinueButtonText	
+base-ui.WizardPageTemplate.DefaultBackButtonText	
+base-ui.WizardPageTemplate.DefaultCancelButtonText	
+base-ui.WizardPageTemplate.DefaultSaveButtonReadyText	
+base-ui.WizardPageTemplate.DefaultSaveButtonSavingText	
+base-ui.WizardPageTemplate.DefaultSaveButtonSavedText	
+base-ui.WizardResults.openModalButton	
+base-ui.WizardResultsSidebar.primaryButton	
+base-ui.address.placeholder	# Nom de rue, Ville, Province
+base-ui.address.street.label	Veuillez entrer votre adresse
+base-ui.address.street.placeholder	# Nom de rue Type de rue Direction
+base-ui.address.streetNumber.label	Numéro de rue
+base-ui.address.streetNumber.placeholder	Entrez numéro de rue
+base-ui.address.streetName.label	Nom de rue
+base-ui.address.streetName.placeholder	Entrez nom de rue
+base-ui.address.streetType.label	Type de rue
+base-ui.address.streetType.placeholder	Sélectionnez
+base-ui.address.streetDirection.label	Direction
+base-ui.address.streetDirection.placeholder	Sélectionnez
+base-ui.address.city.label	Ville
+base-ui.address.city.placeholder	ville
+base-ui.address.province.label	Province
+base-ui.address.province.placeholder	Sélectionnez
+base-ui.address.postalCode.label	Code postal
+base-ui.address.postalCode.placeholder	code postal
+base-ui.address.unit.label	Unité
+base-ui.address.unit.placeholder	Numéro d'unité
+base-ui.address.redoAddressSearch	Refaire la recherche
+base-ui.address.enterManually	Entrez manuellement
+base-ui.address.outsideOfOntario	
+base-ui.address.checkInternet	
+base-ui.address.validPostalCode	S'il vous plaît, mettez une code postal valide
+base-ui.province.alberta	Alberta
+base-ui.province.northwest-territories	Territoires du Nord-Ouest
+base-ui.province.ontario	Ontario
+base-ui.province.prince-edward-island	Île-du-Prince-Édouard
+base-ui.province.quebec	Québec
+base-ui.province.saskatchewan	Saskatchewan
+base-ui.province.british-columbia	Colombie-Britannique
+base-ui.province.manitoba	Manitoba
+base-ui.province.new-brunswick	Nouveau-Brunswick
+base-ui.province.newfoundland-and-labrador	Terre-neuve-et-Labrador
+base-ui.province.nova-scotia	Nouvelle-Écosse
+base-ui.province.nunavut	Nunavut
+base-ui.province.yukon	Yukon
+base-ui.address-field-default-error	Veuillez entrer votre adresse
+base-ui.address-field.failed-details-fetch	Impossible de récupérer les détails de l'adresse
+base-ui.address-field.failed-autocomplete-fetch	Impossible de récupérer les prédictions d'adresse
+base-field-default-error	Veuillez inscrire une valeur valide
+base-ui-boolean-choice-field-option-yes	Oui
+base-ui-boolean-choice-field-option-no	Non
+base-ui.boolean-field.required	Veuillez sélectionner une option
+choice-field-default-error	Veuillez sélectionner une option
+base-ui.city-field.default-error	Veuillez inscrire une date valide
+date-field-default-error	Veuillez inscrire une date valide
+email-field-default-error	Veuillez inscrire une adresse courriel valide
+float-field-default-error	Veuillez inscrire un nombre valide
+integer-field-default-error	Veuillez inscrire un nombre valide
+base-ui.multiple-choice-field.default	Veuillez choisir une option
+password-field-default-error	Veuillez inscrire une adresse courriel valide
+phone-field-default-error	Veuillez inscrire un numéro de téléphone valide
+postal-code-field-default-error	
+cc.card-details.giftCardOffer
+ccrt.big-number-payment-per-mo	Payez <strong>{balanceTransferMonthlyPayment}</strong>/mois
+ccrt.big-number-months-to-pay	pendant les <b>{balanceTransferPromoMonths, number} premiers mois</b> <br>pour rembourser votre dette sans payer d’intérêts
+ccrt.big-number-interest-rate	<b>taux d’intérêts sur achats</b>
+ccrt.big-number-earnings-per-yr	Gagner <strong>{yearlyEarning, number} $</strong>/an
+ccrt.big-number-earnings-per-yr-negative	Gagner <strong class="negative">-{yearlyEarning, number} $</strong>/an
+ccrt.big-number-spending-per-mo	montant basé sur des dépenses de <b>{monthlySpending, number} $/mois</b>
+ccrt.big-number-fee-per-yr	après <b>{yearlyFee, number} $</b> de cotisations annuelles
+cc.results.calculate-how.title	comment avons-nous le calculé?
+cc.results.calculate-how.transferred-balance	Solde transféré
+cc.results.calculate-how.balance-transfer-promo-rate	Taux de l'offre de transfert de solde
+cc.results.calculate-how.balance-transfer-offer-duration	Durée de l'offre
+cc.results.calculate-how.balance-transfer-offer-duration-duration	{balanceTransferPromoMonths} mois
+cc.results.calculate-how.monthly-payment	Paiement mensuel<br><small>pendant {balanceTransferPromoMonths} mois</small>
+cc.results.calculate-how.annual-fee	frais annuels
+cc.results.calculate-how.balance-transfer-fee	Frais forfaitaires de transfert de solde<br><small>{balanceTransferFeeRateFormatted} du solde transféré</small>
+cc.results.calculate-how.balance-transfer-standard-interest	Taux d'intérêt standard après {balanceTransferPromoMonths} mois
+cc.results.calculate-how.balance-transfer-disclaimer	Exemple simplifié à titre indicatif. Découvrez-en davantage sur <a href="https://www.ratehub.ca//cartes-de-credit/cartes-de-credit-avec-transfert-de-solde" target="_blank" rel="noopener">
+le fonctionnement des intérêts des cartes de crédit</a>.
+cc.results.calculate-how.cash-back.you-will-earn-dollars-per-year	{earnedDollarsPerYear, number, CAD0}/an
+cc.results.calculate-how.cash-back.net-cash-back-earned	Remise en argent nette gagnée
+cc.results.calculate-how.cash-back.net-cash-back-earned-per-year	{netCashBackEarnedPerYear, number, CAD0}/an
+cc.results.calculate-how.cash-back.1.earn-with-bonus	Vous gagnerez (incluant la prime de bienvenue)
+cc.results.calculate-how.cash-back.1.net-cash-back-earned	Remise en argent nette gagnée
+cc.results.calculate-how.cash-back.1.with-annual-fee-waived	Avec l’exonération des frais annuels
+cc.results.calculate-how.cash-back.1.cash-back-summary	Récapitulatif des remises en argent de la première année
+cc.results.calculate-how.monthly-balance	Basé sur le solde mensuel
+cc.results.calculate-how.annual-interest-rate	Taux d'intérêt annuel
+cc.results.calculate-how.annual-interest-charge	Frais d'intérêts annuels
+cc.results.calculate-how.monthlyInterestCharge	Frais d'intérêts mensuels<br><small>par cycle de facturation de 30 jours</small>
+cc.results.calculate-how.low-interest-disclaimer	Exemple simplifié à titre indicatif.
+Découvrez-en davantage sur <a href="https://www.ratehub.ca/cartes-de-credit/frais-d-interets" target="_blank" rel="noopener">le fonctionnement des intérêts des cartes de crédit</a>.
+cc.results.calculate-how.you-will-earn-points	{totalSubsequentYearPoints, number} pts
+cc.results.calculate-how.which-is-worth	Ce qui correspond à
+cc.results.calculate-how.which-is-worth-per-year	{grossSubsequentYearFormatted}/an<br><small>($1 = {pointsPerDollar, number} points)</small>
+cc.results.calculate-how.net-reward-value	Valeur de la récompense nette
+cc.results.calculate-how.net-reward-value-per-year	{netSubsequentYearValue}/an
+cc.results.calculate-how.first-year-sign-up-bonus	Bonus d'inscription la 1ère année : +{firstYearSignUpBonus}
+cc.card.earning-categories-title	Catégories de gains
+cc.card.how-to-redeem-title	Comment créditer vos gains
+cc.card.get-a-gift-card	Obtenez une {giftCardValue} carte-cadeau gratuite sur approbation
+cf-lowInterest-seeMyCards-submit	Voir mes cartes
+cc.results.recommended-for-you.title	Cartes recommandées pour vous
+cc.results.recommended-for-you.subtitle	Voici une sélection des meilleures cartes en fonction des réponses que vous avez fournies. Comparez les différentes cartes et sélectionnez celle qui répond le mieux à vos besoins.
+cc.results.edit-my-answers	Modifier mes réponses
+cc.results.show-all-cards	Plus
+cc.results.no-matching-cards.title	Désolé, nous n'avons pas trouvé de carte correspondant à vos critères
+cc.results.no-matching-cards.explanation	<p>Voici quelques conseils pour optimiser votre recherche:</p>
+            <ul>
+                <li>Sélectionnez moins de fonctionnalités pour obtenir plus de résultats de recherche.</li>
+                <li>Vous n’êtes peut-être pas admissible à une carte de crédit récompenses. Si votre cote de crédit est inférieure à 600, vous pouvez améliorer votre historique de crédit en utilisant l'une de ces  <a href="/cartes-de-credit/guarantie">cartes de crédit avec garantie</a>.</li>
+                <li><a href="/cartes-de-credit/meilleures-cartes-de-credit">Parcourir toutes les cartes de crédit récompenses</a>.</li>
+            </ul>
+cc.results.no-matching-cards.explanation.cash-back	"<p>Voici quelques conseils pour optimiser votre recherche:</p>
+            <ul>
+                <li>Vous n’êtes peut-être pas admissible à une carte de crédit récompenses. Si votre cote de crédit est inférieure à 600, vous pouvez améliorer votre historique de crédit en utilisant l'une de ces  <a href=""/cartes-de-credit/guarantie"">cartes de crédit avec garantie</a>.</li>
+                <li><a href=""/cartes-de-credit/meilleures-cartes-de-credit"">Parcourir toutes les cartes de crédit récompenses</a>.</li>
+            </ul>"
+cc.results.no-matching-cards.explanation.li-and-bt	<ul>
+            <li>Vous n’êtes peut-être pas admissible à une carte de crédit récompenses. Si votre cote de crédit est inférieure à 600, vous pouvez améliorer votre historique de crédit en utilisant l'une de ces  <a href="https://www.ratehub.ca/cartes-de-credit/guarantie">cartes de crédit avec garantie</a>.
+            </li>
+        </ul>
+cf-rewards-seeMyCards-submit	Voir mes cartes
+cf-cardFinder-title-desktop	Trouvez la carte de crédit qui correspond à vos besoins (cela prendra moins de 2 minutes)
+cf-cardFinder-subTitle-desktop	Merci de répondre aux questions suivantes:
+cf-cardFinder-title-mobile	Trouvez la carte qui répond à vos besoins
+cf-creditScoreIncome-subTitle-mobile	Veuillez répondre aux questions suivantes:
+cf-rewardType-subTitle-mobile	Veuillez sélectionner un (1) des éléments suivants:
+cf-rewardType-question	Veuillez sélectionner le type de carte à récompenses voulu.
+cf-creditScore-question	Connaissez-vous votre cote de crédit?
+cf-creditScore-tooltip	<b>Pourquoi posons-nous cette question?</b><p>La plupart des cartes de crédit exigent une cote de crédit minimale. Sélectionnez votre cote de crédit afin de filtrer les résultats de cartes de crédit en fonction de celle-ci, ainsi que des cartes dont vous pouvez bénéficier. Si vous ne connaissez pas votre cote de crédit, sélectionnez « Non, je ne le sais pas »; vos résultats seront ainsi filtrés sans prendre en compte votre cote de crédit.</p>
+cf-income-question	Quel est votre revenu annuel?
+cf-income-tooltip	<b>Pourquoi posons-nous cette question?</b><p>Certaines cartes de crédit exigent un revenu personnel minimum avant de pouvoir être admissible à une approbation. Si vous préférez ne pas divulguer votre revenu annuel, sélectionnez « Préfère ne pas répondre » et vos résultats seront filtrés sans prendre en compte votre revenu.</p>
+cf-monthlySpending-subTitle-mobile	Veuillez répondre aux questions suivantes:
+cf-monthlySpending-question	En moyenne, combien dépensez-vous au moyen de votre carte de crédit au cours d’un mois standard?
+cf-monthlySpending-tooltip	<b>Pourquoi posons-nous cette question?</b><p>Les cartes de crédit proposent des taux de rémunération variables pour les récompenses, définis selon plusieurs catégories. En indiquant le montant moyen de vos dépenses mensuelles, cela nous aidera à trouver la carte de crédit qui correspond exactement à vos besoins.</p>
+cf-spendingCategory-subTitle-mobile	Veuillez donner une estimation des éléments suivants:
+cf-spendingCategories-header	Sur la base de vos dépenses mensuelles, nous avons estimé vos dépenses par catégorie. Veuillez ajuster en conséquence si nécessaire, cela nous aidera à trouver la carte qui vous proposera le meilleur rendement.
+cf-groceries-label	Épicerie
+cf-gas-label	Essence
+cf-restaurants-label	Restaurants
+cf-restaurantsSub-label	(y compris restauration rapide et boissons)
+cf-bills-label	Factures
+cf-travel-label	Déplacements
+cf-travelSub-label	(vols, hôtels, taxis, transports en commun)
+cf-entertainment-label	Divertissements
+cf-pharmacy-label	Médicaments et pharmacie
+cf-other-label	Autre
+cf-email-subTitle-mobile	Veuillez répondre aux questions suivantes:
+cf-email-question	Voulez-vous recevoir des informations concernant les cartes de crédit, des conseils et des offres exclusives? Inscrivez-vous ci-dessous pour recevoir notre lettre d’information directement dans votre boîte de réception.
+cf-email-disclaimer	En soumettant votre adresse électronique, vous reconnaissez être d'accord avec les <a href='//www.ratehub.ca/conditions' target='_blank'>conditions générales d'utilisation</a> de Ratehub.ca et la <a href='//www.ratehub.ca/confidentialite' target='_blank'>politique de vie privée</a>. Contactez-nous pour plus d'informations. Vous réservez le droit de vous désabonner à n'importe quand.
+cf-subscribe-question	Voulez-vous recevoir des informations sur les cartes de crédit, des conseils et des offres exclusives?
+cf-highBalance-question	Reportez-vous un solde important sur une carte de crédit à taux d'intérêt élevé?
+cf-highBalance-tooltip	<b>Pourquoi posons-nous cette question?</b><p>Certaines cartes de crédit à faible taux d'intérêt offrent une option de transfert de solde. Transférer un solde pourrait être une bonne option si vous payez chaque mois des intérêts sur votre solde. Un transfert de solde permet de transférer votre solde sur une autre carte de crédit à taux d’intérêt très bas ou même à 0 % pendant une période promotionnelle. Cela peut vous aider à rembourser vos dettes de carte de crédit sans avoir à payer d’intérêt.</p>
+cf-transferAmount-question	Quel montant de votre solde de carte de crédit souhaitez-vous transférer sur une nouvelle carte?
+cf-transferAmount-tooltip	<b>Pourquoi posons-nous cette question?</b><p>En indiquant le montant que vous souhaitez transférer sur une nouvelle carte de crédit, cela nous permettra de vous proposer les taux d’intérêt et périodes promotionnels applicables.</p>
+cf-creditBalance-question	En moyenne, combien reportez-vous de votre solde sur le mois suivant?
+cf-creditBalance-tooltip	<b>Pourquoi posons-nous cette question?</b><p>En indiquant votre moyenne mensuelle du solde reporté, vous nous aiderez à calculer le montant des intérêts imputés sur ce solde. Souvent, ce montant correspond au solde qui n’est pas acquitté et qui est reporté sur le mois suivant. Il ne s’agit pas du montant des dépenses effectuées avec votre carte.</p>
+cf-features-question	Lesquelles des fonctionnalités suivantes sont les plus importantes pour vous? Vous pouvez sélectionner jusqu'à 4 fonctionnalités.
+cf-seeMyCards-submit	Voir mes carte
+cc.card.featuresThatMatch.title	Avantages qui correspondent à vos choix
+cc.card.redemptionFlexibility.title	Flexibilité de rachat
+cc.card.redemptionFlexibility.description	Échangez vos points pour couvrir les frais de voyage de vos relevés
+cc.card.earnRewards.title	Gagner des récompenses
+cc.card.readMore.button	Montre plus
+cc.card.readLess.button	Montrer moins
+cc.card.seeMoreDetails	Montre plus
+cc.card.card-details	Détails de la carte
+cc.rt.cardFooter.signUpBonus	Prime à l'inscription<br><strong  class="green">{signUpBonusPoints, number} pts</strong><br><small>{signUpBonusDollars, number} $ valuer</small>
+cc.rt.cardFooter.cash-back.welcomeBonus	Prime de bienvenue<br><strong class="green">+{cashBackWelcomeBonusCAD}</strong><br>Basé sur les dépenses mensuelles
+cc.rt.cardFooter.annualFee	Frais annuels<br>{isFirstYearFeeWaived, select, true {<strong><span class="strikeout">{annualFee} $</span> <span class="green">0 $</span></strong><br><small>Exemption pour la première année</small>} false {<strong>{annualFee} $</strong>}}
+cc.rt.cardFooter.interestRates	{purchaseInterest, select, null {} other {Intérêt d'achat: <b>{purchaseInterest} %</b>}}{cashAdvanceInterest, select, null {} other {<br />Avance de fonds: <b>{cashAdvanceInterest} %</b>}}{balanceTransferInterest, select, null {} other {<br />Transfert de solde: <b>{balanceTransferInterest} %</b>}}
+cc.rt.cardFooter.minimumCreditIncome	Cote de crédit recommandée: <b>{minimumCreditScore}+</b><br>Revenu min. admissible: <b>{minimumIncome, number} ${minimumIncome, select, 0 {} other {/an}}</b>
+cc.rt.cardFooter.balanceTransferOffer	Offre de transfert de solde<br><strong>{balanceTransferPromoRateFormatted}</strong><br>pendant {balanceTransferPromoMonths, plural, one {# mois} other {# mois}}
+cc.results.calculate-how.monthly-spending	Si vous dépensez
+cc.results.calculate-how.monthly-spending-per-month	{monthlySpending}/mois
+cc.results.calculate-how.you-will-earn	Vous gagnerez
+cc.results.calculate-how.subtract-annual-fee	Moins les frais annuels
+cf-rewardType-cashBack	Remise en argent
+cf-rewardType-travel	Voyages
+cf-rewardType-storeCredit	Rabais en magasin
+cf-rewardType-all	Tous
+cf-creditScore-5Excellent	Excellent (760 et plus)
+cf-creditScore-4VeryGood	Très bon (725-759)
+cf-creditScore-3Good	Bon (660-724)
+cf-creditScore-2Fair	Moyen (560-659)
+cf-creditScore-1Poor	Faible (moins de 560)
+cf-creditScore-0No	Non, je ne le sais pas
+cf-income-7500	0 $ - 14 999 $
+cf-income-27500	15 000 $ - 39 999 $
+cf-income-50000	40 000 $ - 59 999 $
+cf-income-70000	60 000 $ - 79 999 $
+cf-income-80000	80 000 $ et plus
+cf-income-none	Je ne souhaite pas le divulguer
+cf-monthlySpending-500	Moins de 1 000 $
+cf-monthlySpending-1550	1 000 $ - 1 999 $
+cf-monthlySpending-2500	2 000 $ - 2 999 $
+cf-monthlySpending-4000	3 000 $ - 4 999 $
+cf-monthlySpending-5000	5 000 $ et plus
+cf-feature-baggageDelay	Assurance retard de bagages
+cf-feature-baggageLoss	Assurance perte de bagages
+cf-feature-carRental	L'assurance voiture de location
+cf-feature-extendedWarranty	Protection prolongée
+cf-feature-flightDelay	Assurance retard de vol
+cf-feature-loungeAccess	Accès à des salons d'aéroport
+cf-feature-mobileInsurance	Assurance mobile
+cf-feature-noForex	Auncun de frais de change
+cf-feature-priceProtection	Protection de prix
+cf-feature-purchaseAssurance	Achat d'assurance
+cf-feature-travelAccident	Assurance accidents de voyage
+cf-feature-travelEmergency	Assurance médicale d'urgence pour les voyages
+cf-feature-tripCancellation	Assurance annulation de voyage
+cf-feature-tripInterruption	Interruption de voyage
+cf-yes	Oui
+cf-no	Non
+cf-select-placeholder	SVP sélectionnez
+cf-email-placeholder	Veuillez inscrire l'adresse courriel (facultatif)
+cf-email-placeholder-alt	Veuillez inscrire l'adresse courriel
+cc-cardfinder.earnings-table.description	Sur {categories}
+cc-cardfinder.earnings-table.groceries	Épiceries
+cc-cardfinder.earnings-table.gas	Essence
+cc-cardfinder.earnings-table.restaurants	Restaurants (y compris restauration rapide et boissons)
+cc-cardfinder.earnings-table.bills	Factures
+cc-cardfinder.earnings-table.travel	Déplacements (vols, hôtels, taxis, transports en commun)
+cc-cardfinder.earnings-table.entertainment	Divertissement
+cc-cardfinder.earnings-table.pharmacy	Médicaments et pharmacie
+cc-cardfinder.earnings-table.other	Autres achats
+ccrt.card.balance-transfer-offer	Offre de transfert de solde<br><small>Premiers {balanceTransferPromoMonths} mois</small>
+ccrt.card.balance-transfer-promo-ends	<small>à la fin de la promotion</small>
+ccrt.card.balance-transfer-fee	Frais forfaitaires de transfert de solde <br><small>{balanceTransferFeeRate, number} % du solde transféré</small>
+ccrt.card.low-interest-annual-fee	Cotisations annuelles
+ccrt.card.low-interest-monthly-interest-charge	Frais d'intérêts mensuels<br><small>Basé sur un solde créditeur de <b>${lowInterestMonthlyBalance, number} / mois</b></small>
+cc.gift-card.title	Obtenez une {amount} carte-cadeau gratuite
+cc.gift-card.applying-for	Vous appliquez pour
+cc.gift-card.no-thanks	Je ne veux pas la carte cadeau
+cc.gift-card.label.email	Votre Courriel
+cc.gift-card.post-application-info	Si votre demande est approuvée, vous recevrez une offre promotionnelle de Ratehub.ca dans les 5-15 jours
+cc.gift-card.CTA	Soumettre
+cc.gift-card.disclaimer	En cochant la case ci-dessus, vous acceptez la <a href="/confidentialite" target="_blank" rel="noopener">Politique de confidentialité</a> et les <a href="/conditions" target="_blank" rel="noopener">Conditions d’utilisation</a> de Ratehub.ca
+cc.card.apply-now	Plus de détails
+cc.card.pointsPerDollar	{multiplier, plural, one {# point} other {# points}}/1 $
+Dashboard.SignInForm.title.text	
+Dashboard.SignInForm.signInCta.label	
+Dashboard.RegisterForm.title.text	
+Dashboard.RegisterForm.signInCta.label	
+Dashboard.RegisterFormWithLink.title.text	
+Dashboard.RegisterFormWithLink.signInCta.label	
+Accounts.InsuranceDetails.coverageInformation	
+Accounts.InsuranceDetails.endorsements	
+Accounts.myAccountPage.welcomeBack	
+Accounts.myAccountPage.autoInsurance	
+Accounts.myAccountPage.homeInsurance	
+Accounts.myAccountPage.currentlyViewing	
+Accounts.startQuoteCTA.startNewQuote	
+Accounts.autoQuoteDetails.policyLength	
+Accounts.autoQuoteDetails.months	
+Accounts.autoQuoteDetails.coveragePackage	
+Accounts.autoQuoteDetails.comprehensive	
+Accounts.autoQuoteDetails.collision	
+Accounts.autoQuoteDetails.liability	
+Accounts.autoQuoteDetails.lossOfUse	
+Accounts.autoQuoteDetails.accidentWaiver	
+Accounts.autoQuoteDetails.removingDepreciation	
+Accounts.autoQuoteDetails.rentalCarCoverage	
+Accounts.autoQuoteDetails.brokerSupport	
+Accounts.homeQuoteDetails.policyLength	
+Accounts.homeQuoteDetails.months	
+Accounts.homeQuoteDetails.personalLiability	
+Accounts.homeQuoteDetails.claimsDeductible	
+Accounts.homeQuoteDetails.sewerBackup	
+Accounts.homeQuoteDetails.overlandWater	
+Accounts.homeQuoteDetails.identityTheft	
+Accounts.homeQuoteDetails.brokerSupport	
+Accounts.quoteSummaryRow.viewMore	
+Accounts.quoteSummaryRow.viewLess	
+Accounts.quoteSummaryRow.resumeQuote	
+Accounts.quoteSummaryRow.quoteStarted	
+Accounts.quoteSummaryRow.quoteCompleted	
+Accounts.quoteSummaryRow.expiresInDays	
+Accounts.autoQuoteHistoryTable.noQuotes	
+Accounts.autoQuoteHistoryTable.startQuote	
+Accounts.autoQuoteHistoryTable.tooltip	
+Accounts.autoQuoteHistoryTable.deleteConfirmationTitle	
+Accounts.autoQuoteHistoryTable.confirmDelete	
+Accounts.autoQuoteHistoryTable.cancelDelete	
+Accounts.autoQuoteHistoryTable.deleteSuccess	
+Accounts.autoQuoteHistoryTable.deleteFailure	
+Accounts.quoteHistoryTable.title	
+Accounts.homeQuoteHistoryTable.noQuotes	
+Accounts.homeQuoteHistoryTable.startQuote	
+Accounts.homeQuoteHistoryTable.tooltip	
+Accounts.homeQuoteHistoryTable.deleteConfirmationTitle	
+Accounts.homeQuoteHistoryTable.confirmDelete	
+Accounts.homeQuoteHistoryTable.cancelDelete	
+Accounts.homeQuoteHistoryTable.deleteSuccess	
+Accounts.homeQuoteHistoryTable.deleteFailure	
+Accounts.quoteSummaryRow.perMonth	
+Accounts.quoteSummaryRow.perYear	
+Accounts.quoteSummaryRow.emptyDollarAmount	
+Accounts.quoteSummaryRow.insuranceProvider	
+Accounts.quoteSummaryRow.requiredMoreInfo	
+Accounts.tabs.autoInsurance	
+Accounts.tabs.homeInsurance	
+InsAutoWizard.AssignmentsPage.Title	
+InsAutoWizard.AssignmentsPage.Paragraph	
+InsAutoWizard.AssignmentsPage.UpdateButton	
+InsAutoWizard.AssignmentsPage.ContinueButton	
+InsAutoWizard.AssignmentsPage.PrimaryDriverLabel	
+InsAutoWizard.ConfirmationPage.Comprehensive	
+InsAutoWizard.ConfirmationPage.CollisionDeductible	
+InsAutoWizard.ConfirmationPage.Liability	
+InsAutoWizard.ConfirmationPage.Endorsements	
+InsAutoWizard.ConfirmationPage.NoEndorsements	
+InsAutoWizard.ConfirmationPage.LossOfUse	
+InsAutoWizard.ConfirmationPage.RentalCarCoverage	
+InsAutoWizard.ConfirmationPage.AccidentForgiveness	
+InsAutoWizard.ConfirmationPage.RemovingDepreciation	
+InsAutoWizard.ConfirmationPage.Vehicles	
+InsAutoWizard.CoverageEditor.Coverage	
+InsAutoWizard.CoverageEditor.VehicleLabel	
+InsAutoWizard.CoverageEditor.ComprehensiveLabel	
+InsAutoWizard.coverageDetails.ComprehensiveTooltip	
+InsAutoWizard.CoverageEditor.CollisonLabel	
+InsAutoWizard.CoverageEditor.CollisonTooltip	
+InsAutoWizard.CoverageEditor.LiabilityLabel	
+InsAutoWizard.CoverageEditor.LiabilityTooltip	
+InsAutoWizard.CoverageEditor.Endorsements	
+InsAutoWizard.CoverageEditor.LossOfUseLabel	
+InsAutoWizard.CoverageEditor.LossOfUseTooltip	
+InsAutoWizard.CoverageEditor.RentalCarCoverageLabel	
+InsAutoWizard.CoverageEditor.RentalCarCoverageTooltip	
+InsAutoWizard.CoverageEditor.AccidentForgivenessLabel	
+InsAutoWizard.CoverageEditor.AccidentForgivenessTooltip	
+InsAutoWizard.CoverageEditor.RemovingDepreciationLabel	
+InsAutoWizard.CoverageEditor.RemovingDepreciationTooltip	
+AutoInsuranceWizard.driverEditor.vehicleNamePlaceholder	
+AutoInsuranceWizard.driverEditor.removeVehicle	
+AutoInsuranceWizard.driverEditor.selectPlaceholder	
+AutoInsuranceWizard.DriverHistorySection.sectionHeader	
+AutoInsuranceWizard.DriverHistorySection.selectPlaceholder	
+AutoInsuranceWizard.DriverHistorySection.agePlaceholder	
+AutoInsuranceWizard.DriverHistorySection.firstLicenceAgeLabel	
+AutoInsuranceWizard.DriverHistorySection.firstLicenceAgeTooltip	
+AutoInsuranceWizard.DriverHistorySection.firstLicenceTypeLabel	
+AutoInsuranceWizard.DriverHistorySection.firstLicenceTypeTooltip	
+AutoInsuranceWizard.DriverHistorySection.g2LicenceLabel	
+AutoInsuranceWizard.DriverHistorySection.g2LicenceTooltip	
+AutoInsuranceWizard.DriverHistorySection.g2LicenceAgeLabel	
+AutoInsuranceWizard.DriverHistorySection.g2LicenceAgeTooltip	
+AutoInsuranceWizard.DriverHistorySection.gLicenceLabel	
+AutoInsuranceWizard.DriverHistorySection.gLicenceTooltip	
+AutoInsuranceWizard.DriverHistorySection.gLicenceAgeLabel	
+AutoInsuranceWizard.DriverHistorySection.gLicenceAgeTooltip	
+AutoInsuranceWizard.DriverHistorySection.driverTrainingLabel	
+AutoInsuranceWizard.DriverHistorySection.driverTrainingTooltip	
+AutoInsuranceWizard.DriverHistorySection.everInsuredLabel	
+AutoInsuranceWizard.DriverHistorySection.everInsuredTooltip	
+AutoInsuranceWizard.DriverHistorySection.firstInsuranceDateLabel	
+AutoInsuranceWizard.DriverHistorySection.firstInsuranceDateTooltip	
+AutoInsuranceWizard.DriverHistorySection.currentlyInsuredLabel	
+AutoInsuranceWizard.DriverHistorySection.currentlyInsuredTooltip	
+AutoInsuranceWizard.DriverHistorySection.sameInsurerLabel	
+AutoInsuranceWizard.DriverHistorySection.sameInsurerTooltip	
+AutoInsuranceWizard.DriverHistorySection.lastPolicyExpireLabel	
+AutoInsuranceWizard.DriverHistorySection.lastPolicyExpireTooltip	
+AutoInsuranceWizard.DriverHistorySection.lastPolicyStartLabel	
+AutoInsuranceWizard.DriverHistorySection.lastPolicyStartTooltip	
+AutoInsuranceWizard.DriverHistorySection.currentInsurerLabel	
+AutoInsuranceWizard.DriverHistorySection.currentInsurerTooltip	
+AutoInsuranceWizard.DriverHistorySection.currentInsuranceAmountLabel	
+AutoInsuranceWizard.DriverHistorySection.currentInsuranceAmountTooltip	
+AutoInsuranceWizard.DriverHistorySection.currentInsuranceAmountPlaceholder	
+AutoInsuranceWizard.DriverHistorySection.policyStartLabel	
+AutoInsuranceWizard.DriverHistorySection.policyStartTooltip	
+AutoInsuranceWizard.DriverHistorySection.firstLicenceHelpText	
+AutoInsuranceWizard.DriverHistorySection.g2LicenceHelpText	
+AutoInsuranceWizard.DriverHistorySection.gLicenceHelpText	
+AutoInsuranceWizard.DriverInformationSection.sectionHeader	
+AutoInsuranceWizard.DriverInformationSection.selectPlaceholder	
+AutoInsuranceWizard.DriverInformationSection.firstNameLabel	
+AutoInsuranceWizard.DriverInformationSection.firstNamePlaceholder	
+AutoInsuranceWizard.DriverInformationSection.firstNameTooltip	
+AutoInsuranceWizard.DriverInformationSection.lastNameLabel	
+AutoInsuranceWizard.DriverInformationSection.lastNamePlaceholder	
+AutoInsuranceWizard.DriverInformationSection.lastNameTooltip	
+AutoInsuranceWizard.DriverInformationSection.relationToPrimaryInsuredLabel	
+AutoInsuranceWizard.DriverInformationSection.relationToPrimaryInsuredTooltip	
+AutoInsuranceWizard.DriverInformationSection.dateOfBirthLabel	
+AutoInsuranceWizard.DriverInformationSection.dateOfBirthTooltip	
+AutoInsuranceWizard.DriverInformationSection.genderLabel	
+AutoInsuranceWizard.DriverInformationSection.genderTooltip	
+AutoInsuranceWizard.DriverInformationSection.maritalStatusLabel	
+AutoInsuranceWizard.DriverInformationSection.maritalStatusTooltip	
+AutoInsuranceWizard.DriverInformationSection.occupationLabel	
+AutoInsuranceWizard.DriverInformationSection.occupationTooltip	
+AutoInsuranceWizard.DriverOffenseSection.sectionHeader	
+AutoInsuranceWizard.DriverOffenseSection.subtitle	
+AutoInsuranceWizard.DriverOffenseSection.selectPlaceholder	
+AutoInsuranceWizard.DriverOffenseSection.anyConvictionsLabel	
+AutoInsuranceWizard.DriverOffenseSection.anyConvictionsTooltip	
+AutoInsuranceWizard.DriverOffenseSection.atFaultAccidentsHeaderLabel	
+AutoInsuranceWizard.DriverOffenseSection.atFaultAccidentsHeaderTooltip	
+AutoInsuranceWizard.DriverOffenseSection.atFaultAccidentsSurtitle	
+AutoInsuranceWizard.DriverOffenseSection.atFaultAccidentsTypeLabel	
+AutoInsuranceWizard.DriverOffenseSection.atFaultAccidentsDateLabel	
+AutoInsuranceWizard.DriverOffenseSection.atFaultAccidentsDateTooltip	
+AutoInsuranceWizard.DriverOffenseSection.notAtFaultAccidentsHeaderLabel	
+AutoInsuranceWizard.DriverOffenseSection.notAtFaultAccidentsHeaderTooltip	
+AutoInsuranceWizard.DriverOffenseSection.notAtFaultAccidentsSurtitle	
+AutoInsuranceWizard.DriverOffenseSection.notAtFaultAccidentsTypeLabel	
+AutoInsuranceWizard.DriverOffenseSection.notAtFaultAccidentsDateLabel	
+AutoInsuranceWizard.DriverOffenseSection.notAtFaultAccidentsDateTooltip	
+AutoInsuranceWizard.DriverOffenseSection.convictionsHeaderLabel	
+AutoInsuranceWizard.DriverOffenseSection.convictionsHeaderTooltip	
+AutoInsuranceWizard.DriverOffenseSection.convictionsSurtitle	
+AutoInsuranceWizard.DriverOffenseSection.convictionsTypeLabel	
+AutoInsuranceWizard.DriverOffenseSection.convictionsTypeTooltip	
+AutoInsuranceWizard.DriverOffenseSection.convictionsDateLabel	
+AutoInsuranceWizard.DriverOffenseSection.convictionsDateTooltip	
+AutoInsuranceWizard.DriverOffenseSection.violationsHeaderLabel	
+AutoInsuranceWizard.DriverOffenseSection.violationsHeaderTooltip	
+AutoInsuranceWizard.DriverOffenseSection.violationsSurtitle	
+AutoInsuranceWizard.DriverOffenseSection.violationsReasonLabel	
+AutoInsuranceWizard.DriverOffenseSection.violationsReasonTooltip	
+AutoInsuranceWizard.DriverOffenseSection.violationsDateLabel	
+AutoInsuranceWizard.DriverOffenseSection.violationsDateTooltip	
+AutoInsuranceWizard.DriverOffenseSection.violationsNextInsuranceLabel	
+AutoInsuranceWizard.DriverOffenseSection.violationsNextInsuranceTooltip	
+AutoInsuranceWizard.DriverOffenseSection.violationsNextInsuranceDateLabel	
+AutoInsuranceWizard.DriverOffenseSection.violationsNextInsuranceDateTooltip	
+InsAutoWizard.DriverPage.Title	
+InsAutoWizard.DriverPage.AddVehicle	
+InsAutoWizard.DriverPage.SaveButton	
+InsAutoWizard.DriverPage.UpdateButton	
+InsAutoWizard.DriverPage.ContinueButton	
+InsAutoWizard.DriverPage.RemoveVehicleTitle	
+InsAutoWizard.DriverPage.RemoveVehicleDescription	
+InsAutoWizard.DriverPage.CancelRemoval	
+InsAutoWizard.DriverPage.AcceptRemoval	
+InsAutoWizard.GatekeeperPage.Title	
+InsAutoWizard.GatekeeperPage.SubTitle	
+InsAutoWizard.GatekeeperPage.SaveMoreMessage	
+InsAutoWizard.GatekeeperPage.SeeMyQuotes	
+InsAutoWizard.CancelModal.Title	
+InsAutoWizard.CancelModal.Description	
+InsAutoWizard.CancelModal.Accept	
+InsAutoWizard.CancelModal.Reject	
+InsAutoWizard.Breadcrumbs.VehicleStep	
+InsAutoWizard.Breadcrumbs.DriverStep	
+InsAutoWizard.Breadcrumbs.OtherInfoStep	
+InsAutoWizard.SignInForm.title.text	
+InsAutoWizard.SignInForm.signInCta.label	
+InsAutoWizard.RegisterForm.title.text	
+InsAutoWizard.RegisterForm.subtitle.text	
+InsAutoWizard.RegisterForm.signInCta.label	
+InsAutoWizard.MaintenancePage.Title	
+InsAutoWizard.MaintenancePage.Description	
+InsAutoWizard.MaintenancePage.CTAText	
+InsAutoWizard.OtherInformationPage.Title	
+InsAutoWizard.OtherInformationPage.SaveButton	
+InsAutoWizard.OtherInformationPage.UpdateButton	
+InsAutoWizard.OtherInformationPage.ContinueButton	
+InsAutoWizard.OtherInformationPage.BundleInsuranceLabel	
+InsAutoWizard.OtherInformationPage.BundleInsuranceDescription	
+InsAutoWizard.OtherInformationPage.EmailAddressLabel	
+InsAutoWizard.OtherInformationPage.EmailAddressPlaceholder	
+InsAutoWizard.OtherInformationPage.EmailAddressDescription	
+InsAutoWizard.OtherInformationPage.EmailConsentLabel	
+InsAutoWizard.OtherInformationPage.EmailConsentDescription	
+InsAutoWizard.OtherInformationPage.PostalCodeLabel	
+InsAutoWizard.OtherInformationPage.AddressLabel	
+InsAutoWizard.OverviewBlock.VehicleDetails	
+InsAutoWizard.OverviewBlock.DriverDetails	
+InsAutoWizard.OverviewBlock.Assignments	
+InsAutoWizard.OverviewBlock.PrimaryDrivers	
+InsAutoWizard.OverviewBlock.OtherInformation	
+InsAutoWizard.OverviewPage.Title	
+InsAutoWizard.OverviewPage.SeeMyQuotes	
+AutoInsuranceWizard.ResultsPage.Title	
+AutoInsuranceWizard.ResultsPage.Tooltip	
+AutoInsuranceWizard.ResultsPage.SpinnerRetrievingQuotes	
+AutoInsuranceWizard.ResultsPage.SpinnerUpdatingQuotes	
+AutoInsuranceWizard.ResultsPage.SpinnerDescription	
+AutoInsuranceWizard.ResultsPage.EditCoverageButtonText	
+AutoInsuranceWizard.ResultsPage.MessageBanner	
+InsAutoWizard.quotesNoResults.title	
+InsAutoWizard.quotesNoResults.subtitle	
+InsAutoWizard.resultsBackButton.defaultText	
+InsAutoWizard.UserPurposeChooser.Title	
+InsAutoWizard.UserPurposeChooser.NewCarTitle	
+InsAutoWizard.UserPurposeChooser.NewCarDescription	
+InsAutoWizard.UserPurposeChooser.PolicyRenewalTitle	
+InsAutoWizard.UserPurposeChooser.PolicyRenewalDescription	
+InsAutoWizard.UserPurposeChooser.BrowsingTitle	
+InsAutoWizard.UserPurposeChooser.BrowsingDescription	
+AutoInsuranceWizard.vehicleEditor.vehicleNamePlaceholder	
+AutoInsuranceWizard.vehicleEditor.sectionHeader	
+AutoInsuranceWizard.vehicleEditor.removeVehicle	
+AutoInsuranceWizard.vehicleEditor.selectPlaceholder	
+AutoInsuranceWizard.vehicleEditorFullPage.ownLease.label	
+AutoInsuranceWizard.vehicleEditorPage.ownLease.tooltip	
+AutoInsuranceWizard.vehicleEditorFullPage.datePurchased.label	
+AutoInsuranceWizard.vehicleEditorPage.datePurchased.tooltip	
+AutoInsuranceWizard.vehicleEditorFullPage.vehicleCondition.label	
+AutoInsuranceWizard.vehicleEditorPage.vehicleCondition.tooltip	
+AutoInsuranceWizard.vehicleEditorFullPage.winterTires.label	
+AutoInsuranceWizard.vehicleEditorPage.winterTires.tooltip	
+AutoInsuranceWizard.vehicleEditorFullPage.roadsideAssistance.label	
+AutoInsuranceWizard.vehicleEditorPage.roadsideAssistance.tooltip	
+AutoInsuranceWizard.vehicleEditorFullPage.antiTheftDevice.label	
+AutoInsuranceWizard.vehicleEditorPage.antiTheftDevice.tooltip	
+AutoInsuranceWizard.vehicleEditorFullPage.parkedOvernight.label	
+AutoInsuranceWizard.vehicleEditorPage.parkedOvernight.tooltip	
+AutoInsuranceWizard.vehicleEditorFullPage.vehiclePurpose.label	
+AutoInsuranceWizard.vehicleEditorPage.vehiclePurpose.tooltip	
+AutoInsuranceWizard.vehicleEditorFullPage.dailyKM.label	
+AutoInsuranceWizard.vehicleEditorPage.dailyKM.tooltip	
+AutoInsuranceWizard.vehicleEditorFullPage.yearlyKM.label	
+AutoInsuranceWizard.vehicleEditorPage.yearlyKM.tooltip	
+AutoInsuranceWizard.vehicleEditorFullPage.datePurchasedHelpText	
+InsAutoWizard.VehiclePage.Title	
+InsAutoWizard.VehiclePage.SaveButton	
+InsAutoWizard.VehiclePage.UpdateButton	
+InsAutoWizard.VehiclePage.ContinueButton	
+InsAutoWizard.VehiclePage.AddVehicle	
+InsAutoWizard.VehiclePage.RemoveVehicleTitle	
+InsAutoWizard.VehiclePage.RemoveVehicleDescription	
+InsAutoWizard.VehiclePage.CancelRemoval	
+InsAutoWizard.VehiclePage.AcceptRemoval	
+InsAutoWizard.VehicleSelector.Question	
+InsAutoWizard.VehicleSelector.Tooltip	
+InsAutoWizard.VehicleSelector.Year	
+InsAutoWizard.VehicleSelector.YearPlaceholder	
+InsAutoWizard.VehicleSelector.Make	
+InsAutoWizard.VehicleSelector.MakePlaceholder	
+InsAutoWizard.VehicleSelector.Model	
+InsAutoWizard.VehicleSelector.ModelPlaceholder	
+AutoInsuranceWizard.atFaultClaimType.bodily_injury	
+AutoInsuranceWizard.atFaultClaimType.property_damage	
+AutoInsuranceWizard.atFaultClaimType.accident_benefits	
+AutoInsuranceWizard.atFaultClaimType.direct_compensation	
+AutoInsuranceWizard.atFaultClaimType.uninsured_motorist	
+AutoInsuranceWizard.atFaultClaimType.collision	
+AutoInsuranceWizard.atFaultClaimType.all_perils	
+AutoInsuranceWizard.atFaultClaimType.windshield	
+AutoInsuranceWizard.atFaultClaimType.other	
+AutoInsuranceWizard.CollisionValues.noCoverage	
+AutoInsuranceWizard.CollisionValues.500	
+AutoInsuranceWizard.CollisionValues.1000	
+AutoInsuranceWizard.ComprehensiveValues.noCoverage	
+AutoInsuranceWizard.ComprehensiveValues.500	
+AutoInsuranceWizard.ComprehensiveValues.1000	
+InsAutoWizard.ConvictionType.minorCrowding	
+InsAutoWizard.ConvictionType.minorDefectiveBrakes	
+InsAutoWizard.ConvictionType.minorDriversLicense	
+InsAutoWizard.ConvictionType.minorInsecureLoad	
+InsAutoWizard.ConvictionType.minorOpenAlcohol	
+InsAutoWizard.ConvictionType.minorInspectionSticker	
+InsAutoWizard.ConvictionType.minorFailingToShare	
+InsAutoWizard.ConvictionType.minorFailingToSignal	
+InsAutoWizard.ConvictionType.minorFailingToYield	
+InsAutoWizard.ConvictionType.minorFailingToCarryInsurance	
+InsAutoWizard.ConvictionType.minorFailingToProduceInsurance	
+InsAutoWizard.ConvictionType.minorFailingToSurrenderLicense	
+InsAutoWizard.ConvictionType.minorSeatbelts	
+InsAutoWizard.ConvictionType.minorFollowClosely	
+InsAutoWizard.ConvictionType.minorHeadlightOffences	
+InsAutoWizard.ConvictionType.minorBusLane	
+InsAutoWizard.ConvictionType.minorImproperOpeningDoor	
+InsAutoWizard.ConvictionType.minorImproperPass	
+InsAutoWizard.ConvictionType.minorImproperRailwayCrossing	
+InsAutoWizard.ConvictionType.minorImproperTowing	
+InsAutoWizard.ConvictionType.minorImproperDividedHighway	
+InsAutoWizard.ConvictionType.minorObstructedViewDrivers	
+InsAutoWizard.ConvictionType.minorObstructingTraffic	
+InsAutoWizard.ConvictionType.minorObstructedPlate	
+InsAutoWizard.ConvictionType.minorOverloading	
+InsAutoWizard.ConvictionType.minorSeatbeltInfraction	
+InsAutoWizard.ConvictionType.minorSpeeding	
+InsAutoWizard.ConvictionType.minorStopSignLight	
+InsAutoWizard.ConvictionType.minorUnnecessaryNoise	
+InsAutoWizard.ConvictionType.minorUnnecessarySlowDriving	
+InsAutoWizard.ConvictionType.minorUnnecessaryMove	
+InsAutoWizard.ConvictionType.minorUnsafeTurn	
+InsAutoWizard.ConvictionType.minorUnsafeVehicle	
+InsAutoWizard.ConvictionType.minorRadarWarningDevice	
+InsAutoWizard.ConvictionType.minorWrongWay	
+InsAutoWizard.ConvictionType.majorInsuranceOffences	
+InsAutoWizard.ConvictionType.majorDistractedDriving	
+InsAutoWizard.ConvictionType.majorFailingReportAccident	
+InsAutoWizard.ConvictionType.majorFailingStopSchoolBus	
+InsAutoWizard.ConvictionType.majorSchoolPassingZoneRestrictions	
+InsAutoWizard.ConvictionType.majorFailingReportDamage	
+InsAutoWizard.ConvictionType.majorFailingStopEmergencyVehicle	
+InsAutoWizard.ConvictionType.majorFalseInsurance	
+InsAutoWizard.ConvictionType.majorFalseEvidenceInsurance	
+InsAutoWizard.ConvictionType.majorSpeedingConstruction	
+InsAutoWizard.ConvictionType.majorViolationConditions	
+InsAutoWizard.ConvictionType.criminalDangerousDriving	
+InsAutoWizard.ConvictionType.criminalNegligence	
+InsAutoWizard.ConvictionType.criminalDrivingImpaired	
+InsAutoWizard.ConvictionType.criminalDrivingSuspended	
+InsAutoWizard.ConvictionType.criminalFailingObeyPolice	
+InsAutoWizard.ConvictionType.criminalFailingRemainAccident	
+InsAutoWizard.ConvictionType.criminalMotorManslaughter	
+InsAutoWizard.ConvictionType.criminalUninsured	
+InsAutoWizard.ConvictionType.criminalRacing	
+InsAutoWizard.ConvictionType.criminalRefuseBreathalyzer	
+InsAutoWizard.ConvictionType.criminalSpeeding50Over	
+InsAutoWizard.ConvictionType.criminalStunting	
+InsAutoWizard.ConvictionType.criminalViolationConditionsAlcohol	
+AutoInsuranceWizard.CoverageTypeValues.minimum	
+AutoInsuranceWizard.CoverageTypeValues.standard	
+AutoInsuranceWizard.CoverageTypeValues.extended	
+AutoInsuranceWizard.CurrentInsurerMessages.aviva	
+AutoInsuranceWizard.CurrentInsurerMessages.coachman	
+AutoInsuranceWizard.CurrentInsurerMessages.goreMutual	
+AutoInsuranceWizard.CurrentInsurerMessages.economical	
+AutoInsuranceWizard.CurrentInsurerMessages.jevco	
+AutoInsuranceWizard.CurrentInsurerMessages.intact	
+AutoInsuranceWizard.CurrentInsurerMessages.pafco	
+AutoInsuranceWizard.CurrentInsurerMessages.perth	
+AutoInsuranceWizard.CurrentInsurerMessages.pembridge	
+AutoInsuranceWizard.CurrentInsurerMessages.rsa	
+AutoInsuranceWizard.CurrentInsurerMessages.travelers	
+AutoInsuranceWizard.CurrentInsurerMessages.wawanesa	
+AutoInsuranceWizard.CurrentInsurerMessages.other	
+AutoInsuranceWizard.DailyKMValues.zero	
+AutoInsuranceWizard.DailyKMValues.twentyFive	
+AutoInsuranceWizard.DailyKMValues.fifty	
+AutoInsuranceWizard.DailyKMValues.hundred	
+AutoInsuranceWizard.DriverRelationMessages.spouse	
+AutoInsuranceWizard.DriverRelationMessages.parent	
+AutoInsuranceWizard.DriverRelationMessages.child	
+AutoInsuranceWizard.DriverRelationMessages.sibling	
+AutoInsuranceWizard.DriverRelationMessages.otherRelative	
+AutoInsuranceWizard.DriverRelationMessages.cohabitant	
+AutoInsuranceWizard.DriverRelationMessages.employee	
+AutoInsuranceWizard.DriverRelationMessages.other	
+AutoInsuranceWizard.GenderMessages.male	
+AutoInsuranceWizard.GenderMessages.female	
+AutoInsuranceWizard.LiabilityValues.oneMillion	
+AutoInsuranceWizard.LiabilityValues.twoMillion	
+AutoInsuranceWizard.LicenseTypeMessages.g1	
+AutoInsuranceWizard.LicenseTypeMessages.g2	
+AutoInsuranceWizard.LicenseTypeMessages.g	
+AutoInsuranceWizard.MaritalStatusMessages.single	
+AutoInsuranceWizard.MaritalStatusMessages.inARelationship	
+AutoInsuranceWizard.MaritalStatusMessages.married	
+AutoInsuranceWizard.MaritalStatusMessages.separated	
+AutoInsuranceWizard.MaritalStatusMessages.divorced	
+AutoInsuranceWizard.MaritalStatusMessages.widowed	
+AutoInsuranceWizard.MaritalStatusMessages.commonLaw	
+AutoInsuranceWizard.notAtFaultClaimType.bodily_injury	
+AutoInsuranceWizard.notAtFaultClaimType.property_damage	
+AutoInsuranceWizard.notAtFaultClaimType.accident_benefits	
+AutoInsuranceWizard.notAtFaultClaimType.direct_compensation	
+AutoInsuranceWizard.notAtFaultClaimType.uninsured_motorist	
+AutoInsuranceWizard.notAtFaultClaimType.collision	
+AutoInsuranceWizard.notAtFaultClaimType.all_perils	
+AutoInsuranceWizard.notAtFaultClaimType.windshield	
+AutoInsuranceWizard.notAtFaultClaimType.other	
+AutoInsuranceWizard.OccupationMessages.fullTime	
+AutoInsuranceWizard.OccupationMessages.partTime	
+AutoInsuranceWizard.OccupationMessages.student	
+AutoInsuranceWizard.OccupationMessages.self	
+AutoInsuranceWizard.OccupationMessages.retired	
+AutoInsuranceWizard.OccupationMessages.notEmployed	
+AutoInsuranceWizard.OwnLeaseValues.own	
+AutoInsuranceWizard.OwnLeaseValues.lease	
+AutoInsuranceWizard.ParkedOvernightValues.carPort	
+AutoInsuranceWizard.ParkedOvernightValues.driveway	
+AutoInsuranceWizard.ParkedOvernightValues.parkingLot	
+AutoInsuranceWizard.ParkedOvernightValues.privateGarage	
+AutoInsuranceWizard.ParkedOvernightValues.privateUnderGround	
+AutoInsuranceWizard.ParkedOvernightValues.publicUnderground	
+AutoInsuranceWizard.ParkedOvernightValues.street	
+AutoInsuranceWizard.ParkedOvernightValues.other	
+InsAutoWizard.PhoneInputBlock.Description	
+InsAutoWizard.PhoneInputBlock.Disclaimer	
+AutoInsuranceWizard.trustMessaging.users.mainText	
+AutoInsuranceWizard.trustMessaging.users.subText	
+AutoInsuranceWizard.trustMessaging.bank.mainText	
+AutoInsuranceWizard.trustMessaging.bank.subText	
+AutoInsuranceWizard.trustMessaging.leaf.mainText	
+AutoInsuranceWizard.trustMessaging.leaf.subText	
+AutoInsuranceWizard.VehicleConditionValues.new	
+AutoInsuranceWizard.VehicleConditionValues.used	
+AutoInsuranceWizard.VehiclePurposeValues.commuting	
+AutoInsuranceWizard.VehiclePurposeValues.pleasure	
+AutoInsuranceWizard.VehiclePurposeValues.business	
+AutoInsuranceWizard.violationType.administrative_suspension	
+AutoInsuranceWizard.violationType.insurance_fraud	
+AutoInsuranceWizard.violationType.lapse_of_insurance	
+AutoInsuranceWizard.violationType.license_suspension	
+AutoInsuranceWizard.violationType.material_misrepresentation	
+AutoInsuranceWizard.violationType.non_disclosure_cancellation	
+AutoInsuranceWizard.violationType.non_payment_cancellation	
+AutoInsuranceWizard.YearlyKMValues.ten	
+AutoInsuranceWizard.YearlyKMValues.fifteen	
+AutoInsuranceWizard.YearlyKMValues.thirty	
+InsAutoWizard.atFaultClaimDate.validationMessage	
+InsAutoWizard.convictions.validationMessage	
+InsAutoWizard.DriverEditor.16YearsOldValidation	
+InsAutoWizard.DriverEditor.G216YearsOldValidation	
+InsAutoWizard.DriverEditor.G16YearsOldValidation	
+InsAutoWizard.DriverEditor.FirstInsuranceDateValidation	
+InsAutoWizard.DriverEditor.LastPolicyExpireValidation	
+InsAutoWizard.DriverEditor.LastPolicyStartValidation	
+InsAutoWizard.DriverEditor.LicenceAgeValidation	
+InsAutoWizard.DriverEditor.G2LicenceValidation	
+InsAutoWizard.DriverEditor.GLicenceValidation	
+InsAutoWizard.notAtFaultClaimDate.validationMessage	
+InsAutoWizard.OtherInformationPage.OntarioPostalCodeValidation	
+InsAutoWizard.OtherInformationPage.OntarioAddressValidation	
+InsAutoWizard.VehiclePage.DatePurchasedError	
+InsAutoWizard.violations.dateValidationMessage	
+InsAutoWizard.violations.nextInsuranceDateValidation	
+InsuranceShared.backButton.defaultText	
+InsCommon.BrokerContactBlock.Title	
+InsCommon.BrokerContactBlock.ContactDetails	
+InsCommon.BrokerHours.Title	
+InsCommon.BrokerHours.Week	
+InsCommon.BrokerHours.Saturday	
+InsCommon.BrokerHours.Sunday	
+InsCommon.PhoneNumberButton.ButtonText	
+InsCommon.BuyOnlineCTABlock.Title	
+InsCommon.BuyOnlineCTABlock.Description	
+InsCommon.BuyOnlineCTABlock.CTAText	
+InsuranceShared.cancelButton.defaultText	
+InsCommon.ConfirmationPageTemplate.Description	
+InsCommon.ConfirmationPageTemplate.TitleWithBroker	
+InsCommon.ConfirmationPageTemplate.TitleWithoutBroker	
+InsCommon.ConfirmationPageTemplate.TitleInSubmitQuoteScenario	
+InsCommon.ConfirmationPageTemplate.TitleBuyOnline	
+InsCommon.ConfirmationPageTemplate.Subtitle	
+InsCommon.ConfirmationPageTemplate.SubtitleSubmitQuote	
+InsCommon.ConfirmationPageTemplate.SubmitQuoteCTAText	
+InsCommon.ConfirmationPageTemplate.Back	
+InsCommon.ConfirmationPageTemplate.Disclaimer	
+InsuranceCommon.errorModal.tryAgain	
+InsuranceCommon.OverviewItem.EditButtonLabel	
+InsuranceCommon.PhoneInputBlock.Label	
+InsuranceCommon.PhoneInputBlock.Placeholder	
+InsuranceShared.PhoneNumberBlock.NeedAnExpert	
+InsuranceCommon.QuoteEstimateTeaser.EstimatedQuote	
+InsuranceCommon.QuoteEstimateTeaser.PerMonth	
+InsuranceCommon.QuoteEstimateTeaser.QuoteRange	
+InsuranceCommon.QuoteEstimateTeaser.NoQuotes	
+InsCommon.ResultsCoverageModal.UpdateButtonText	
+InsCommon.quotesPage.quoteId	
+InsCommon.QuotesTableItemDetails.providerTitle	
+InsCommon.QuotesTableItemDetails.brokeredBy	
+InsCommon.quotesPage.quoteSubmittedMessage	
+InsCommon.QuotesTableItemHeader.perMonth	
+InsCommon.QuotesTableItemHeader.perYear	
+InsCommon.QuotesTableItemHeader.viewDetails	
+InsCommon.QuotesTableItemHeader.hideDetails	
+InsCommon.quotesPage.submitQuote.readyTextLowIntent	
+InsCommon.quotesPage.submitQuote.readyTextHighIntent	
+InsuranceShared.SaveButton.SaveQuote	
+InsuranceShared.SaveButton.SavingQuote	
+InsuranceShared.SaveButton.SavedQuote	
+InsuranceShared.SubmitButton.Continue	
+InsuranceShared.SubmitButton.Update	
+InsCommon.SelectedQuoteSummary.Title	
+InsCommon.SelectedQuoteSummary.Price	
+InsCommon.SelectedQuoteSummary.MonthlyAndYearlyRate	
+InsCommon.SelectedQuoteSummary.QuoteId	
+InsCommon.SelectedQuoteSummary.BrokeredBy	
+InsCommon.submitQuote.submittingText	
+InsCommon.submitQuote.submittedText	
+InsHomeWizard.ConfirmationPage.PersonalLiability	
+InsHomeWizard.ConfirmationPage.ClaimsDeductible	
+InsHomeWizard.ConfirmationPage.Endorsements	
+InsHomeWizard.ConfirmationPage.NoEndorsements	
+InsHomeWizard.ConfirmationPage.SewerBackup	
+InsHomeWizard.ConfirmationPage.OverlandWater	
+HomeInsuranceWizard.ConstructionEditor.title	
+HomeInsuranceWizard.ConstructionEditor.SaveButton	
+HomeInsuranceWizard.ConstructionEditor.UpdateButton	
+HomeInsuranceWizard.ConstructionEditor.ContinueButton	
+HomeInsuranceWizard.ConstructionEditor.supportText	
+HomeInsuranceWizard.ConstructionEditor.detailsSectionHeader	
+HomeInsuranceWizard.ConstructionEditor.yearBuilt.label	
+HomeInsuranceWizard.ConstructionEditor.yearBuilt.tooltip	
+HomeInsuranceWizard.ConstructionEditor.constructionType.label	
+HomeInsuranceWizard.ConstructionEditor.constructionType.tooltip	
+HomeInsuranceWizard.ConstructionEditor.numberOfBathrooms.label	
+HomeInsuranceWizard.ConstructionEditor.numberOfBathrooms.tooltip	
+HomeInsuranceWizard.ConstructionEditor.roofType.label	
+HomeInsuranceWizard.ConstructionEditor.roofType.tooltip	
+HomeInsuranceWizard.ConstructionEditor.estimatedReplacementCost.label	
+HomeInsuranceWizard.ConstructionEditor.estimatedReplacementCost.tooltip	
+HomeInsuranceWizard.ConstructionEditor.additionalDetails.heading	
+HomeInsuranceWizard.ConstructionEditor.additionalDetails.supportText	
+HomeInsuranceWizard.ConstructionEditor.confirmExtraDetails.label	
+HomeInsuranceWizard.ConstructionEditor.fireHydrant.label	
+HomeInsuranceWizard.ConstructionEditor.fireHydrant.tooltip	
+HomeInsuranceWizard.ConstructionEditor.firehall.label	
+HomeInsuranceWizard.ConstructionEditor.firehall.tooltip	
+HomeInsuranceWizard.ConstructionEditor.squareFootage.label	
+HomeInsuranceWizard.ConstructionEditor.squareFootage.tooltip	
+HomeInsuranceWizard.ConstructionEditor.heating.label	
+HomeInsuranceWizard.ConstructionEditor.heating.tooltip	
+HomeInsuranceWizard.ConstructionEditor.fuelType.label	
+HomeInsuranceWizard.ConstructionEditor.fuelType.tooltip	
+HomeInsuranceWizard.ConstructionEditor.numberOfStories.label	
+HomeInsuranceWizard.ConstructionEditor.numberOfStories.tooltip	
+HomeInsuranceWizard.ConstructionEditor.finishedBasement.label	
+HomeInsuranceWizard.ConstructionEditor.finishedBasement.tooltip	
+HomeInsuranceWizard.ConstructionEditor.electricalWiring.label	
+HomeInsuranceWizard.ConstructionEditor.electricalWiring.tooltip	
+HomeInsuranceWizard.ConstructionEditor.electricPanelType.label	
+HomeInsuranceWizard.ConstructionEditor.electricPanelType.tooltip	
+HomeInsuranceWizard.ConstructionEditor.electricalAmps.label	
+HomeInsuranceWizard.ConstructionEditor.electricalAmps.tooltip	
+HomeInsuranceWizard.ConstructionEditor.pipingType.label	
+HomeInsuranceWizard.ConstructionEditor.pipingType.tooltip	
+HomeInsuranceWizard.ConstructionEditor.waterTankStyle.label	
+HomeInsuranceWizard.ConstructionEditor.waterTankStyle.tooltip	
+HomeInsuranceWizard.ConstructionEditor.roofYearLastUpdated.label	
+HomeInsuranceWizard.ConstructionEditor.roofYearLastUpdated.tooltip	
+HomeInsuranceWizard.ConstructionEditor.roofYearLastUpdated.placeholder	
+HomeInsuranceWizard.ConstructionEditor.spinnerText	
+HomeInsuranceWizard.CoverageEditor.Coverage	
+HomeInsuranceWizard.coverageEditor.personalLiability.label	
+HomeInsuranceWizard.coverageEditor.personalLiability.tooltip	
+HomeInsuranceWizard.coverageEditor.claimsDeductible.label	
+HomeInsuranceWizard.coverageEditor.claimsDeductible.tooltip	
+HomeInsuranceWizard.CoverageEditor.Endorsements	
+HomeInsuranceWizard.coverageEditor.sewerBackup.label	
+HomeInsuranceWizard.coverageEditor.sewerBackup.tooltip	
+HomeInsuranceWizard.coverageEditor.overlandWater.label	
+HomeInsuranceWizard.coverageEditor.overlandWater.tooltip	
+InsHomeWizard.warningModal.title	
+InsHomeWizard.warningModal.subtitle	
+InsHomeWizard.warningModal.acceptButton.text	
+InsHomeWizard.warningModal.rejectButton.text	
+InsHomeWizard.SignInForm.title.text	
+InsHomeWizard.SignInForm.signInCta.label	
+InsHomeWizard.RegisterForm.title.text	
+InsHomeWizard.RegisterForm.subtitle.text	
+InsHomeWizard.RegisterForm.signInCta.label	
+InsHomeWizard.errorModal.title	
+InsHomeWizard.errorModal.description	
+InsHomeWizard.Breadcrumbs.PropertyStep	
+InsHomeWizard.Breadcrumbs.OccupantStep	
+InsHomeWizard.Breadcrumbs.OtherInformationStep	
+InsHomeWizard.Breadcrumbs.ConstructionStep	
+HomeInsuranceWizard.occupantEditor.title	
+HomeInsuranceWizard.occupantEditor.SaveButton	
+HomeInsuranceWizard.occupantEditor.UpdateButton	
+HomeInsuranceWizard.occupantEditor.ContinueButton	
+HomeInsuranceWizard.occupantEditor.occupantNamePlaceholder	
+HomeInsuranceWizard.occupantEditor.detailsSectionHeader	
+HomeInsuranceWizard.occupantEditor.firstName.label	
+HomeInsuranceWizard.occupantEditor.firstName.placeholder	
+HomeInsuranceWizard.occupantEditor.firstName.tooltip	
+HomeInsuranceWizard.occupantEditor.lastName.label	
+HomeInsuranceWizard.occupantEditor.lastName.placeholder	
+HomeInsuranceWizard.occupantEditor.lastName.tooltip	
+HomeInsuranceWizard.occupantEditor.dateOfBirth.label	
+HomeInsuranceWizard.occupantEditor.dateOfBirth.tooltip	
+HomeInsuranceWizard.occupantEditor.jobStatus.label	
+HomeInsuranceWizard.occupantEditor.jobStatus.tooltip	
+HomeInsuranceWizard.occupantEditor.jobStatus.placeholder	
+HomeInsuranceWizard.occupantEditor.yearsWithActiveInsurance.label	
+HomeInsuranceWizard.occupantEditor.yearsWithActiveInsurance.placeholder	
+HomeInsuranceWizard.occupantEditor.yearsWithActiveInsurance.tooltip	
+HomeInsuranceWizard.occupantEditor.policyStartDate.label	
+HomeInsuranceWizard.occupantEditor.policyStartDate.tooltip	
+HomeInsuranceWizard.occupantEditor.claimsSectionHeader	
+HomeInsuranceWizard.occupantEditor.claimsSectionParagraph	
+HomeInsuranceWizard.occupantEditor.anyClaims.label	
+HomeInsuranceWizard.occupantEditor.anyClaims.tooltip	
+HomeInsuranceWizard.occupantEditor.damageClaimHeader.label	
+HomeInsuranceWizard.occupantEditor.damageClaimHeader.tooltip	
+HomeInsuranceWizard.occupantEditor.damageClaimType.label	
+HomeInsuranceWizard.occupantEditor.damageClaimType.tooltip	
+HomeInsuranceWizard.occupantEditor.damageClaimType.placeholder	
+HomeInsuranceWizard.occupantEditor.damageClaimDate.label	
+HomeInsuranceWizard.occupantEditor.damageClaimDate.tooltip	
+HomeInsuranceWizard.occupantEditor.damageClaimShortLabel	
+HomeInsuranceWizard.occupantEditor.cancelRefusalClaimHeader.label	
+HomeInsuranceWizard.occupantEditor.cancelRefusalClaimHeader.tooltip	
+HomeInsuranceWizard.occupantEditor.cancelRefusalClaimType.label	
+HomeInsuranceWizard.occupantEditor.cancelRefusalClaimType.tooltip	
+HomeInsuranceWizard.occupantEditor.cancelRefusalClaimType.placeholder	
+HomeInsuranceWizard.occupantEditor.cancelRefusalClaimDate.label	
+HomeInsuranceWizard.occupantEditor.cancelRefusalClaimDate.tooltip	
+HomeInsuranceWizard.occupantEditor.cancelRefusalClaimShortLabel	
+HomeInsuranceWizard.otherInformationPage.title	
+HomeInsuranceWizard.otherInformationPage.SaveButton	
+HomeInsuranceWizard.otherInformationPage.UpdateButton	
+HomeInsuranceWizard.otherInformationPage.ContinueButton	
+HomeInsuranceWizard.otherInformationPage.phoneInputBlockDisclaimer	
+HomeInsuranceWizard.otherInformationPage.phoneInputBlockDescription	
+HomeInsuranceWizard.otherInformationPage.bundleInsuranceLabel	
+HomeInsuranceWizard.otherInformationPage.bundleInsuranceDescription	
+HomeInsuranceWizard.otherInformationPage.emailAddressLabel	
+HomeInsuranceWizard.otherInformationPage.emailAddressPlaceholder	
+HomeInsuranceWizard.otherInformationPage.emailAddressDescription	
+HomeInsuranceWizard.otherInformationPage.emailConsentLabel	
+HomeInsuranceWizard.otherInformationPage.emailConsentDescription	
+HomeInsuranceWizard.otherInformationPage.creditCheckConsentLabel	
+HomeInsuranceWizard.otherInformationPage.creditCheckSectionHeader	
+HomeInsuranceWizard.otherInformationPage.creditCheckConsentDescription	
+HomeInsuranceWizard.OverviewPage.Title	
+HomeInsuranceWizard.OverviewPage.SeeMyQuotes	
+HomeInsuranceWizard.OverviewPage.PropertyDetails	
+HomeInsuranceWizard.OverviewPage.OccupantDetails	
+HomeInsuranceWizard.OverviewPage.OtherInformation	
+HomeInsuranceWizard.OverviewPage.ConstructionDetails	
+HomeInsuranceWizard.houseEditor.title	
+HomeInsuranceWizard.houseEditor.SaveButton	
+HomeInsuranceWizard.houseEditor.UpdateButton	
+HomeInsuranceWizard.houseEditor.ContinueButton	
+HomeInsuranceWizard.houseEditor.houseNamePlaceholder	
+HomeInsuranceWizard.houseEditor.sectionHeader	
+HomeInsuranceWizard.houseEditor.address.label	
+HomeInsuranceWizard.houseEditor.address.tooltip	
+HomeInsuranceWizard.houseEditor.yearsAtMostRecentAddress.label	
+HomeInsuranceWizard.houseEditor.yearsAtMostRecentAddress.tooltip	
+HomeInsuranceWizard.houseEditor.propertyType.label	
+HomeInsuranceWizard.houseEditor.propertyType.tooltip	
+HomeInsuranceWizard.houseEditor.propertyType.placeholder	
+HomeInsuranceWizard.houseEditor.occupying.label	
+HomeInsuranceWizard.houseEditor.occupying.tooltip	
+HomeInsuranceWizard.houseEditor.howManyMortgages.label	
+HomeInsuranceWizard.houseEditor.howManyMortgages.tooltip	
+HomeInsuranceWizard.houseEditor.yearsAtMostRecentAddress.placeholder	
+HomeInsuranceWizard.houseEditor.occupying.placeholder	
+HomeInsuranceWizard.houseEditor.howManyMortgages.placeholder	
+InsHomeWizard.ResultsPage.Title	
+InsHomeWizard.ResultsPage.SpinnerRetrievingQuotes	
+InsHomeWizard.ResultsPage.SpinnerUpdatingQuotes	
+InsHomeWizard.ResultsPage.SpinnerDescription	
+InsHomeWizard.ResultsPage.EditCoverageButtonText	
+InsHomeWizard.ResultsPage.MessageBanner	
+InsHomeWizard.quotesNoResults.title	
+InsHomeWizard.quotesNoResults.description	
+InsHomeWizard.quotesNoResults.supportText	
+InsHomeWizard.resultsBackButton.defaultText	
+InsHomeWizard.UserPurposeChooserPage.Title	
+InsHomeWizard.UserPurposeChooserPage.NewHomeTitle	
+InsHomeWizard.UserPurposeChooserPage.NewHomeDescription	
+InsHomeWizard.UserPurposeChooserPage.PolicyRenewalTitle	
+InsHomeWizard.UserPurposeChooserPage.PolicyRenewalDescription	
+InsHomeWizard.UserPurposeChooserPage.BrowsingTitle	
+InsHomeWizard.UserPurposeChooserPage.BrowsingDescription	
+HomeInsuranceWizard.address.addressWithoutUnit	
+HomeInsuranceWizard.address.addressWithUnit	
+HomeInsuranceWizard.address.outsideOfOntario	
+HomeInsuranceWizard.address.validPostalCodeError	
+HomeInsuranceWizard.address.validONPostalCodeError	
+HomeInsuranceWizard.cancelRefusalClaimReason.property_value_high	
+HomeInsuranceWizard.cancelRefusalClaimReason.property_old	
+HomeInsuranceWizard.cancelRefusalClaimReason.coverage_change	
+HomeInsuranceWizard.cancelRefusalClaimReason.broker_contact	
+HomeInsuranceWizard.cancelRefusalClaimReason.vacant_property	
+HomeInsuranceWizard.cancelRefusalClaimReason.home_business_violation	
+HomeInsuranceWizard.cancelRefusalClaimReason.non_approved_residents	
+HomeInsuranceWizard.cancelRefusalClaimReason.postal_code_restrictions	
+HomeInsuranceWizard.cancelRefusalClaimReason.non_payment_premiums	
+HomeInsuranceWizard.cancelRefusalClaimReason.non_disclosure	
+HomeInsuranceWizard.cancelRefusalClaimReason.misrepresentation	
+HomeInsuranceWizard.cancelRefusalClaimReason.other	
+HomeInsuranceWizard.claimDeductible.one_thousand	
+HomeInsuranceWizard.claimDeductible.five_hundred	
+HomeInsuranceWizard.constructionType.concreteBlocks	
+HomeInsuranceWizard.constructionType.stucco	
+HomeInsuranceWizard.constructionType.vinylSiding	
+HomeInsuranceWizard.constructionType.woodSiding	
+HomeInsuranceWizard.constructionType.concreteFilterboards	
+HomeInsuranceWizard.constructionType.brickVeener	
+HomeInsuranceWizard.constructionType.stoneVeener	
+HomeInsuranceWizard.constructionType.solidLogs	
+HomeInsuranceWizard.constructionType.solidBricks	
+HomeInsuranceWizard.constructionType.solidStones	
+HomeInsuranceWizard.damageClaimType.personal_property	
+HomeInsuranceWizard.damageClaimType.sewer	
+HomeInsuranceWizard.damageClaimType.liability	
+HomeInsuranceWizard.damageClaimType.fire	
+HomeInsuranceWizard.damageClaimType.wind_hail	
+HomeInsuranceWizard.damageClaimType.water_ice	
+HomeInsuranceWizard.damageClaimType.water_snow	
+HomeInsuranceWizard.damageClaimType.water_other	
+HomeInsuranceWizard.damageClaimType.other	
+HomeInsuranceWizard.electricalAmps.60_less	
+HomeInsuranceWizard.electricalAmps.60	
+HomeInsuranceWizard.electricalAmps.100	
+HomeInsuranceWizard.electricalAmps.100_plus	
+HomeInsuranceWizard.electricalWiring.copper	
+HomeInsuranceWizard.electricalWiring.aluminum	
+HomeInsuranceWizard.electricalWiring.knobTube	
+HomeInsuranceWizard.electricalWiring.mix	
+HomeInsuranceWizard.electricalWiring.unknown	
+HomeInsuranceWizard.electricPanelType.breakers	
+HomeInsuranceWizard.electricPanelType.fuses	
+HomeInsuranceWizard.electricPanelType.unknown	
+HomeInsuranceWizard.finishedBasement.yes	
+HomeInsuranceWizard.finishedBasement.notFinished	
+HomeInsuranceWizard.finishedBasement.noBasement	
+HomeInsuranceWizard.firehall.within5km	
+HomeInsuranceWizard.firehall.within20km	
+HomeInsuranceWizard.firehall.greaterThan20km	
+HomeInsuranceWizard.fireHydrant.150	
+HomeInsuranceWizard.fireHydrant.300	
+HomeInsuranceWizard.fireHydrant.300plus	
+HomeInsuranceWizard.fuelType.propane	
+HomeInsuranceWizard.fuelType.oil	
+HomeInsuranceWizard.fuelType.gas	
+HomeInsuranceWizard.fuelType.electric	
+HomeInsuranceWizard.heating.central	
+HomeInsuranceWizard.heating.electric	
+HomeInsuranceWizard.heating.fireplace	
+HomeInsuranceWizard.heating.fireplaceInserts	
+HomeInsuranceWizard.heating.heatPump	
+HomeInsuranceWizard.heating.oilElectricWood	
+HomeInsuranceWizard.heating.gas_wood	
+HomeInsuranceWizard.heating.pelletStove	
+HomeInsuranceWizard.heating.radiant	
+HomeInsuranceWizard.heating.solar	
+HomeInsuranceWizard.heating.solidFuel	
+HomeInsuranceWizard.heating.spaceHeater	
+HomeInsuranceWizard.heating.stove	
+HomeInsuranceWizard.heating.woodBurning	
+HomeInsuranceWizard.heating.other	
+HomeInsuranceWizard.howManyMortgages.no_mortgage	
+HomeInsuranceWizard.howManyMortgages.one	
+HomeInsuranceWizard.howManyMortgages.two	
+HomeInsuranceWizard.howManyMortgages.more_than_two	
+HomeInsuranceWizard.jobStatus.full_time	
+HomeInsuranceWizard.jobStatus.part_time	
+HomeInsuranceWizard.jobStatus.self_employed	
+HomeInsuranceWizard.jobStatus.retired	
+HomeInsuranceWizard.jobStatus.not_employed	
+HomeInsuranceWizard.numberOfStores.one	
+HomeInsuranceWizard.numberOfStores.oneAndAHalf	
+HomeInsuranceWizard.numberOfStores.two	
+HomeInsuranceWizard.numberOfStores.twoAndAHalf	
+HomeInsuranceWizard.numberOfStores.three	
+HomeInsuranceWizard.numberOfStores.biLevel	
+HomeInsuranceWizard.numberOfStores.triLevel	
+HomeInsuranceWizard.NumberOfUnits.one	
+HomeInsuranceWizard.NumberOfUnits.two	
+HomeInsuranceWizard.NumberOfUnits.three	
+HomeInsuranceWizard.NumberOfUnits.four	
+HomeInsuranceWizard.NumberOfUnits.five	
+HomeInsuranceWizard.NumberOfUnits.six	
+HomeInsuranceWizard.NumberOfUnits.seven	
+HomeInsuranceWizard.NumberOfUnits.eight	
+HomeInsuranceWizard.NumberOfUnits.nine	
+HomeInsuranceWizard.NumberOfUnits.ten	
+HomeInsuranceWizard.NumberOfUnits.plus	
+HomeInsuranceWizard.whoIsOccupying.myselfOnly	
+HomeInsuranceWizard.whoIsOccupying.meAndMyPartner	
+HomeInsuranceWizard.whoIsOccupying.oneFamily	
+HomeInsuranceWizard.whoIsOccupying.twoFamilies	
+HomeInsuranceWizard.whoIsOccupying.threeFamilies	
+HomeInsuranceWizard.whoIsOccupying.moreThanThreeFamilies	
+HomeInsuranceWizard.personalLiability.one_million	
+HomeInsuranceWizard.personalLiability.two_million	
+HomeInsuranceWizard.pipingType.copper	
+HomeInsuranceWizard.pipingType.copper_abs	
+HomeInsuranceWizard.pipingType.copper_pvc	
+HomeInsuranceWizard.pipingType.steel	
+HomeInsuranceWizard.pipingType.iron	
+HomeInsuranceWizard.pipingType.pex	
+HomeInsuranceWizard.pipingType.poly_b	
+HomeInsuranceWizard.pipingType.abs	
+HomeInsuranceWizard.pipingType.none	
+HomeInsuranceWizard.propertyType.detached	
+HomeInsuranceWizard.propertyType.semi_detached	
+HomeInsuranceWizard.propertyType.duplex	
+HomeInsuranceWizard.propertyType.triplex	
+HomeInsuranceWizard.propertyType.quadplex	
+HomeInsuranceWizard.propertyType.end_row	
+HomeInsuranceWizard.propertyType.inside_row	
+HomeInsuranceWizard.propertyType.log_home	
+HomeInsuranceWizard.propertyType.residential_house	
+HomeInsuranceWizard.propertyType.row_house	
+HomeInsuranceWizard.propertyType.townhouse	
+HomeInsuranceWizard.propertyType.modular_home	
+HomeInsuranceWizard.propertyType.mobile_home	
+HomeInsuranceWizard.propertyType.high_rise	
+HomeInsuranceWizard.roofType.metalPanels	
+HomeInsuranceWizard.roofType.flatDeck	
+HomeInsuranceWizard.roofType.asphaltShingles	
+HomeInsuranceWizard.roofType.cedarShingles	
+HomeInsuranceWizard.roofType.cedarShakes	
+HomeInsuranceWizard.roofType.metalShingles	
+HomeInsuranceWizard.roofType.rubberTiles	
+HomeInsuranceWizard.roofType.concreteTiles	
+HomeInsuranceWizard.roofType.clayTiles	
+HomeInsuranceWizard.trustMessaging.users.mainText	
+HomeInsuranceWizard.trustMessaging.users.subText	
+HomeInsuranceWizard.trustMessaging.bank.mainText	
+HomeInsuranceWizard.trustMessaging.bank.subText	
+HomeInsuranceWizard.trustMessaging.leaf.mainText	
+HomeInsuranceWizard.trustMessaging.leaf.subText	
+HomeInsuranceWizard.warningModal.title	
+HomeInsuranceWizard.warningModal.subtitle	
+HomeInsuranceWizard.warningModal.acceptButton.text	
+HomeInsuranceWizard.warningModal.rejectButton.text	
+HomeInsuranceWizard.WaterTankStyle.gas_electric	
+HomeInsuranceWizard.WaterTankStyle.heat_pump	
+HomeInsuranceWizard.WaterTankStyle.tankless	
+HomeInsuranceWizard.WaterTankStyle.central_supply	
+HomeInsuranceWizard.WaterTankStyle.none	
+HomeInsuranceWizard.WhichFloor.basement	
+HomeInsuranceWizard.WhichFloor.one	
+HomeInsuranceWizard.WhichFloor.two	
+HomeInsuranceWizard.WhichFloor.three	
+HomeInsuranceWizard.WhichFloor.four	
+HomeInsuranceWizard.WhichFloor.five	
+HomeInsuranceWizard.WhichFloor.six	
+HomeInsuranceWizard.WhichFloor.seven	
+HomeInsuranceWizard.WhichFloor.eight	
+HomeInsuranceWizard.WhichFloor.nine	
+HomeInsuranceWizard.WhichFloor.ten	
+HomeInsuranceWizard.WhichFloor.plus	
+HomeInsuranceWizard.roofYearLastUpdated.never	
+HomeInsuranceWizard.roofYearLastUpdated.unknown	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.less_than_one	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.one_to_two	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.two_to_three	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.three_to_four	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.four_to_five	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.five_to_six	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.six_to_seven	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.seven_to_eight	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.eight_to_nine	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.nine_to_ten	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.ten_to_eleven	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.eleven_to_twelve	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.twelve_to_thirteen	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.thirteen_to_fourteen	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.fourteen_to_fifteen	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.fifteen_to_sixteen	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.sixteen_to_seventeen	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.seventeen_to_eighteen	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.eighteen_to_nineteen	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.nineteen_to_twenty	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.twenty_to_twenty_one	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.twenty_one_to_twenty_two	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.twenty_two_to_twenty_three	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.twenty_three_to_twenty_four	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.twenty_four_to_twenty_five	
+HomeInsuranceWizard.yearsAtMostRecentAddressValues.twenty_five_plus	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.no_insurance	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.less_than_one	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.one_to_two	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.two_to_three	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.three_to_four	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.four_to_five	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.five_to_six	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.six_to_seven	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.seven_to_eight	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.eight_to_nine	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.nine_to_ten	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.ten_to_eleven	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.eleven_to_twelve	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.twelve_to_thirteen	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.thirteen_to_fourteen	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.fourteen_to_fifteen	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.fifteen_to_sixteen	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.sixteen_to_seventeen	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.seventeen_to_eighteen	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.eighteen_to_nineteen	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.nineteen_to_twenty	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.twenty_to_twenty_one	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.twenty_one_to_twenty_two	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.twenty_two_to_twenty_three	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.twenty_three_to_twenty_four	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.twenty_four_to_twenty_five	
+HomeInsuranceWizard.YearsWithActiveInsuranceValues.twenty_five_plus	
+HomeInsuranceWizard.ConstructionEditor.yearBuiltError	
+ins-life-wizard.coverage-needs-page.title	
+ins-life-wizard.coverage-needs-page.city.label	
+ins-life-wizard.coverage-needs-page.city.tooltip	
+ins-life-wizard.coverage-needs-page.coverage-amount.label	
+ins-life-wizard.coverage-needs-page.coverage-amount.placeholder	
+ins-life-wizard.coverage-needs-page.coverage-amount.tooltip	
+ins-life-wizard.coverage-needs-page.insurance-type.label	
+ins-life-wizard.coverage-needs-page.insurance-type.tooltip	
+ins-life-wizard.coverage-needs-page.sex.label	
+ins-life-wizard.coverage-needs-page.sex.tooltip	
+ins-life-wizard.coverage-needs-page.smoker.label	
+ins-life-wizard.coverage-needs-page.smoker.tooltip	
+ins-life-wizard.coverage-needs-page.additional-products.label	
+ins-life-wizard.coverage-needs-page.continue-button	
+ins-life-wizard.breadcrumbs.coverageNeeds	
+ins-life-wizard.breadcrumbs.personalDetails	
+ins-life-wizard.personal-details.loading	
+ins-life-wizard.personal-details.header	
+ins-life-wizard.personal-details.firstName.label	
+ins-life-wizard.personal-details.firstName.placeholder	
+ins-life-wizard.personal-details.lastName.label	
+ins-life-wizard.personal-details.lastName.placeholder	
+ins-life-wizard.personal-details.dateOfBirth.label	
+ins-life-wizard.personal-details.dateOfBirth.tooltip	
+ins-life-wizard.personal-details.phoneNumber.label	
+ins-life-wizard.personal-details.email.label	
+ins-life-wizard.personal-details.backButton	
+ins-life-wizard.personal-details.submitButton	
+ins-life-wizard.thank-you-page.subheading	
+ins-life-wizard.thank-you-page.paragraph	
+ins-life-wizard.thank-you-page.contact	
+ins-life-wizard.thank-you-page.button.secondary	
+ins-life-wizard.thank-you-page.coverage-amount	
+ins-life-wizard.thank-you-page.insurance-type	
+life-insurance.coverageNeeds.additionalProducts.criticalIllness	
+life-insurance.coverageNeeds.additionalProducts.disability	
+life-insurance.coverageNeeds.additionalProducts.mortage	
+life-insurance.coverageNeeds.additionalProducts.funeral	
+life-insurance.coverageNeeds.additionalProducts.familyPlan	
+life-insurance.coverageNeeds.income.under25K	
+life-insurance.coverageNeeds.income.under100K	
+life-insurance.coverageNeeds.income.under250K	
+life-insurance.coverageNeeds.income.under500K	
+life-insurance.coverageNeeds.income.under1M	
+life-insurance.coverageNeeds.income.1MPlus	
+life-insurance.coverageNeeds.insuranceType.term	
+life-insurance.coverageNeeds.insuranceType.whole	
+life-insurance.coverageNeeds.insuranceType.universal	
+ins-life-wizard.sex-field-male	
+ins-life-wizard.sex-field-female	
+ins-life-wizard.birthday-errors.future	
+ins-life-wizard.birthday-errors.out-of-range	
+inv-choice-wizard.onlyPage.header	
+inv-choice-wizard.onlyPage.amountLabel	
+inv-choice-wizard.onlyPage.amountPlaceholder	
+inv-choice-wizard.onlyPage.riskLabel	
+inv-choice-wizard.onlyPage.riskTooltip	
+inv-choice-wizard.onlyPage.accessibileLabel	
+inv-choice-wizard.onlyPage.accessibileTooltip	
+inv-choice-wizard.onlyPage.submitButton	
+inv-choice-wizard.onlyPage.savingsRecommended	
+inv-choice-wizard.onlyPage.gicsRecommended	
+inv-choice-wizard.onlyPage.roboRecommended	
+inv-chooser-wizard.onlyPage.amountInvalid	
+mortgage-app.addressHistoryPage.screenReaderDeleteConfirmation	
+mortgage-app.addressHistoryPage.addressHistorySubheadingNonMultiApp	
+mortgage-app.addressHistoryPage.addressHistorySubheading	Parlez-nous des endroits où vous avez vécu.
+mortgage-app.addressHistoryPage.addressHistorySubtitle	
+mortgage-app.addressHistoryPage.lenderPreferMessage	Les prêteurs exigent connaître vos adresses antérieures des 3 dernières années
+mortgage-app.addressHistoryPage.accordionTitleDefault	Adresse actuelle
+mortgage-app.addressHistoryPage.accordionTitlePrevious	Adresse précédente
+mortgage-app.addressHistoryPage.livedAtLabel	
+mortgage-app.addressHistoryPage.addressLabel	Adresse postale
+mortgage-app.addressHistoryPage.statusLabel	Statut
+mortgage-app.addressHistoryPage.hasMortgageLabel	Détennez-vous actuellement une hypothèque grevant ce bien immobilier?
+mortgage-app.addressHistoryPage.monthlyRentLabel	Loyer mensuel
+mortgage-app.addressHistoryPage.monthlyRentPlaceholder	Entrez montant du prêt hypothécaire$
+mortgage-app.addressHistoryPage.moveInDateLabel	Date d'emménagement
+mortgage-app.addressHistoryPage.remainingTime	Les prêteurs exigent connaître vos adresses antérieures des 3 dernières années Vous devez quand même <strong>{years} ans et {months} du dernier mois</strong> des xxx derniers mois
+mortgage-app.addressHistoryPage.addAddress	Ajouter une adresse antérieure
+mortgage-app.addressHistoryPage.goBackMessage	retour
+mortgage-app.addressHistoryPage.continueMessage	continuer
+mortgage-app.addressHistoryPage.deleteTitleMessage	
+mortgage-app.addressHistoryPage.deleteDescriptionMessage	
+mortgage-app.addressHistoryPage.deleteConfirmMessage	
+mortgage-app.addressHistoryPage.deleteRejectMessage	
+mortgage-app.addressHistoryPage.deleteAddressMessage	
+mtg-app.applicant-details.name.first.label	
+mtg-app.applicant-details.name.first.placeholder	
+mtg-app.applicant-details.name.last.label	
+mtg-app.applicant-details.name.last.placeholder	
+mtg-app.applicant-details.phone.label	
+mtg-app.applicant-details.phone.placeholder	
+mtg-app.applicant-details.email.label	
+mtg-app.applicant-details.email.placeholder	
+mtg-app.applicant-details.birthday.label	
+mtg-app.applicant-details.relationship.label	
+mtg-app.applicant-details.relationship.placeholder	
+mtg-app.applicant-details.remove-applicant	
+mortgage-app.AppointmentBookingPage.bookCallbackTimeMessage	Prendre un rendez-vous pour un rappel téléphonique!
+mortgage-app.AppointmentBookingPage.bookAppointmentExpertsMessage	{firstName}, la prochaine étape est de prendre un rendez-vous téléphonique avec un de nos courtier hypothécaire
+mortgage-app.AppointmentBookingPage.noThanksMessage	
+mortgage-app.AppointmentBookingPage.wantToBookMessage	
+mortgage-app.AppointmentBookingPage.appointmentConfirmedMessage	
+mortgage-app.AppointmentBookingPage.scheduledWithMessage	
+mortgage-app.AppointmentBookingPage.advisorContactMessage	
+mortgage-app.AppointmentBookingPage.goBackMessage	
+mortgage-app.AppointmentBookingPage.continueMessage	
+mtg-app.confirm-delete-applicant.title	
+mtg-app.confirm-delete-applicant.description	
+mtg-app.confirm-delete-applicant.confirm	
+mtg-app.confirm-delete-applicant.reject	
+mortgage-app.DocumentUploadPage.subHeadingMessage	
+mortgage-app.DocumentUploadPage.introMessage	
+mortgage-app.DocumentUploadPage.listHelpMessage	
+mortgage-app.DocumentUploadPage.driversLicenseMessage	
+mortgage-app.DocumentUploadPage.paystubsMessage	
+mortgage-app.DocumentUploadPage.noticesMessage	
+mortgage-app.DocumentUploadPage.purchaseAgreementMessage	
+mortgage-app.DocumentUploadPage.listingMessage	
+mortgage-app.DocumentUploadPage.uploadInstructionMessage	
+mortgage-app.DocumentUploadPage.fileTypesMessage	
+mortgage-app.DocumentUploadPage.goBackMessage	
+mortgage-app.employmentHistoryPage.screenReaderDeleteConfirmation	
+mortgage-app.employmentHistoryPage.accordionTitleDefault	employeur
+mortgage-app.employmentHistoryPage.employmentHistoryMessageNonMultiApp	
+mortgage-app.employmentHistoryPage.employmentHistoryMessage	Parlez-nous des vos emplois antérieurs.
+mortgage-app.employmentHistoryPage.employmentHistorySubtitle	
+mortgage-app.employmentHistoryPage.employerNameLabel	Nom de l'employeur
+mortgage-app.employmentHistoryPage.employerNamePlaceholder	entrez le nom de l'employeur
+mortgage-app.employmentHistoryPage.addressLabel	Adresse postale
+mortgage-app.employmentHistoryPage.addressPlaceholder	entrer l'adresse
+mortgage-app.employmentHistoryPage.employmentTypesLabel	Type d’emploi
+mortgage-app.employmentHistoryPage.startDateLabel	Date de début
+mortgage-app.employmentHistoryPage.currentEmploymentLabel	Courant
+mortgage-app.employmentHistoryPage.endDateLabel	Date de fin
+mortgage-app.employmentHistoryPage.jobTitleLabel	Titre de l’emploi
+mortgage-app.employmentHistoryPage.phoneNumberLabel	Téléphone de travail
+mortgage-app.employmentHistoryPage.IncomeTypeLabel	Type de revenu
+mortgage-app.employmentHistoryPage.annualIncomeLabel	Votre revenu annuel
+mortgage-app.employmentHistoryPage.remainingTime	Les prêteurs exigent connaître vos emplois antérieurs des 3 dernières années Vous devez toute même <strong>{years} ans et {months} mois</strong> votre emploi antérieur
+mortgage-app.employmentHistoryPage.addPreviouEmployer	Ajouter un employeur précédent
+mortgage-app.employmentHistoryPage.deleteEmployer	
+mortgage-app.employmentHistoryPage.goBackMessage	retour
+mortgage-app.employmentHistoryPage.submitText	continuer
+mortgage-app.employmentHistoryPage.jobTitlePlaceholder	entrer titre de l’emploi
+mortgage-app.employmentHistoryPage.phoneNumberPlaceholder	entrer téléphone de travail
+mortgage-app.employmentHistoryPage.annualIncomePlaceholder	Entrez montant du prêt hypothécaire$
+mortgage-app.employmentHistoryPage.incomeTypePlaceholder	sélectionnez
+mortgage-app.employmentHistoryPage.deleteTitleMessage	
+mortgage-app.employmentHistoryPage.deleteDescriptionMessage	
+mortgage-app.employmentHistoryPage.deleteConfirmMessage	
+mortgage-app.employmentHistoryPage.deleteRejectMessage	
+mortgage-app.FileDownloader.emptyListMessage	
+mortgage-app.FileDownloader.headerMessage	
+mortgage-app.FileDownloader.downloadBtnMessage	
+mortgage-app.FileDownloader.selectAllMessage	
+mortgage-app.FileDownloader.unselectAllMessage	
+mortgage-app.FileDownloaderItem.dateSubmittedMessage	
+mortgage-app.FileManager.headerMessage	
+mortgage-app.FileManager.acceptMessage	
+mortgage-app.FileManager.buttonMessage	
+mortgage-app.FileManager.screenReaderDeleteConfirmation	
+mortgage-app.FileUploader.submitDocumentMessage	
+mortgage-app.FileUploader.addDocumentMessage	
+mortgage-app.FileUploader.submitLabelMessage	
+mortgage-app.FileUploader.submitButtonMessage	
+mortgage-app.FileUploaderItem.description.placeholder	
+mortgage-app.FileUploaderItem.error.message	
+mortgage-app.FinancialAssetsPage.screenReaderDeleteConfirmation	
+mortgage-app.FinancialAssetsPage.financialAssetsSubheading	Parlez-nous de vos actifs financiers.
+mortgage-app.FinancialAssetsPage.financialAssetsSubtitle	
+mortgage-app.FinancialAssetsPage.accordionTitleDefault	nouvel actif
+mortgage-app.FinancialAssetsPage.assetTypeLabel	Type d'actif
+mortgage-app.FinancialAssetsPage.descriptionLabel	Description
+mortgage-app.FinancialAssetsPage.financialInstitutionLabel	Institution financière
+mortgage-app.FinancialAssetsPage.amountLabel	Montant
+mortgage-app.FinancialAssetsPage.addAsset	Ajouter un nouvel actif
+mortgage-app.FinancialAssetsPage.goBackMessage	retour
+mortgage-app.FinancialAssetsPage.continueMessage	CONTINUER
+mortgage-app.FinancialAssetsPage.userTotalMessage	{firstNamePresent, select, false {Les actifs {index} du demandeur} true {Actifs à {firstName}}}
+mortgage-app.FinancialAssetsPage.userAssetTotal	{total}
+mortgage-app.FinancialAssetsPage.assetPlaceholder	sélectionnez
+mortgage-app.FinancialAssetsPage.financialInstitutionPlaceholder	entrer institution financière
+mortgage-app.FinancialAssetsPage.descriptionPlaceholder	entrer description
+mortgage-app.FinancialAssetsPage.amountPlaceholder	Entrez montant du prêt hypothécaire$
+mortgage-app.FinancialAssetsPage.deleteTitleMessage	
+mortgage-app.FinancialAssetsPage.deleteDescriptionMessage	
+mortgage-app.FinancialAssetsPage.deleteConfirmMessage	
+mortgage-app.FinancialAssetsPage.deleteRejectMessage	
+mortgage-app.FinancialAssetsPage.deleteAssetMessage	
+mortgage-app.MortgageHistoryPage.screenReaderDeleteConfirmation	
+mortgage-app.MortgageHistoryPage.tellUsOwnedProperties	Parlez-nous des propriétés que le vous possédez.
+mortgage-app.MortgageHistoryPage.mortgageHistorySubheading	
+mortgage-app.MortgageHistoryPage.mortgageHistorySubtitle	
+mortgage-app.MortgageHistoryPage.goBackMessage	retour
+mortgage-app.MortgageHistoryPage.submitText	CONTINUER
+mortgage-app.MortgageHistoryPage.addNewProperty	Ajouter une nouvelle propriété
+mortgage-app.MortgageHistoryPage.addressLabel	Adresse postale
+mortgage-app.MortgageHistoryPage.accordionTitleDefault	Propriétés vous appartenant
+mortgage-app.MortgageHistoryPage.sharedOwnerLabel	
+mortgage-app.MortgageHistoryPage.currentValueLabel	Valeur actuelle de la propriété
+mortgage-app.MortgageHistoryPage.currentMortgageBalance	Solde hypothécaire actuel
+mortgage-app.MortgageHistoryPage.intentions	Quelles sont vos intentions concernant cette propriété?
+mortgage-app.MortgageHistoryPage.renewalDate	Quelle est la date de renouvellement de votre hypothèque?
+mortgage-app.MortgageHistoryPage.lender	Prêteur actuel
+mortgage-app.MortgageHistoryPage.propertyTax	Montant annuel de l'impôt foncier
+mortgage-app.MortgageHistoryPage.propertyAddress	Adresse postale
+mortgage-app.MortgageHistoryPage.monthlyCondoFees	Frais de condo mensuels
+mortgage-app.MortgageHistoryPage.payment	Versement hypothécaire
+mortgage-app.MortgageHistoryPage.paymentFrequency	Fréquence des versements
+mortgage-app.MortgageHistoryPage.doYouStillOwn	Possédez-vous encore cette ancienne résidence?
+mortgage-app.MortgageHistoryPage.doYouHaveMortgage	Détennez-vous actuellement une hypothèque grevant ce bien immobilier?
+mortgage-app.MortgageHistoryPage.addressPlaceholder	entrer l'adresse
+mortgage-app.MortgageHistoryPage.currentValuePlaceholder	Entrez montant du prêt hypothécaire$
+mortgage-app.MortgageHistoryPage.currentMortgageBalancePlaceholder	Entrez montant du prêt hypothécaire$
+mortgage-app.MortgageHistoryPage.propertyTaxPlaceholder	Entrez montant du prêt hypothécaire$
+mortgage-app.MortgageHistoryPage.monthlyCondoFeesPlaceholder	Entrez montant du prêt hypothécaire$
+mortgage-app.MortgageHistoryPage.lenderPlaceholder	sélectionnez
+mortgage-app.MortgageHistoryPage.paymentPlaceholder	Entrez montant du prêt hypothécaire$
+mortgage-app.MortgageHistoryPage.paymentFrequencyPlaceholder	sélectionnez
+mortgage-app.MortgageHistoryPage.deleteTitleMessage	
+mortgage-app.MortgageHistoryPage.deleteDescriptionMessage	
+mortgage-app.MortgageHistoryPage.deleteConfirmMessage	
+mortgage-app.MortgageHistoryPage.deleteRejectMessage	
+mortgage-app.MortgageHistoryPage.deletePropertyMessage	
+mortgage-app.mortgageNeedsPage.preapprovalInfo	
+mortgage-app.mortgageNeedsPage.purchaseInfo	
+mortgage-app.mortgageNeedsPage.renewalInfo	
+mortgage-app.mortgageNeedsPage.refinanceInfo	
+mortgage-app.mortgageNeedsPage.helocInfo	
+mortgage-app.mortgageNeedsPage.mortgageDetailsSubtitle	
+mortgage-app.mortgageNeedsPage.estimatedPriceMessage	
+mortgage-app.mortgageNeedsPage.propertyPriceMessage	
+mortgage-app.mortgageNeedsPage.propertyValueMessage	
+mortgage-app.mortgageNeedsPage.downPaymentMessage	
+mortgage-app.mortgageNeedsPage.determiningTotalMessage	
+mortgage-app.mortgageNeedsPage.purchasePriceMessage	
+mortgage-app.mortgageNeedsPage.downPaymentCalcMessage	
+mortgage-app.mortgageNeedsPage.cmhcInsuranceMessage	
+mortgage-app.mortgageNeedsPage.mortgageBalanceMessage	
+mortgage-app.mortgageNeedsPage.borrowAdditionalMessage	
+mortgage-app.mortgageNeedsPage.currentValueMessage	
+mortgage-app.mortgageNeedsPage.maxRatioMessage	
+mortgage-app.mortgageNeedsPage.maxHelocMessage	
+mortgage-app.mortgageNeedsPage.maxLoanMessage	
+mortgage-app.mortgageNeedsPage.currentBalanceMessage	
+mortgage-app.mortgageNeedsPage.determiningEquityMessage	
+mortgage-app.mortgageNeedsPage.determiningHelocMessage	
+mortgage-app.mortgageNeedsPage.availableEquityMessage	
+mortgage-app.mortgageNeedsPage.newEquityMessage	
+mortgage-app.mortgageNeedsPage.newHelocMessage	
+mortgage-app.mortgageNeedsPage.determiningMortgageMessage	
+mortgage-app.mortgageNeedsPage.currentMortgageMessage	
+mortgage-app.mortgageNeedsPage.additionalEquityMessage	
+mortgage-app.mortgageNeedsPage.totalMortgageMessage	
+mortgage-app.mortgageNeedsPage.closingDateMessage	
+mortgage-app.mortgageNeedsPage.desiredClosingMessage	
+mortgage-app.mortgageNeedsPage.renewalDateMessage	
+mortgage-app.mortgageNeedsPage.refinanceDateGeneralMessage	
+mortgage-app.mortgageNeedsPage.refinanceDateFundsMessage	
+mortgage-app.mortgageNeedsPage.firstHomeBuyerMessage	
+mortgage-app.mortgageNeedsPage.refinancePurposeMessage	
+mortgage-app.mortgageNeedsPage.goBackMessage	
+mortgage-app.mortgageNeedsPage.submitText	
+mortgage-app.mortgageNeedsPage.dollarValuePlaceholder	
+mortgage-app.NotesPage.additionalInfoMessage	
+mortgage-app.NotesPage.notesPlaceholder	
+mortgage-app.NotesPage.submitText	
+mortgage-app.propertyDetailsPage.propertyInfo	Parlez-nous de la propriété que vous avez trouvée
+mortgage-app.propertyDetailsPage.propertyDetailsSubtitle	
+mortgage-app.propertyDetailsPage.addressMessage	Adresse postale
+mortgage-app.propertyDetailsPage.acquiredDateMessage	
+mortgage-app.propertyDetailsPage.propertyUseMessage	
+mortgage-app.propertyDetailsPage.propertyTypeMessage	Type d’habitation
+mortgage-app.propertyDetailsPage.propertyTaxMessage	Montant annuel de l'impôt foncier
+mortgage-app.propertyDetailsPage.condoFeeMessage	Frais de condo mensuels
+mortgage-app.propertyDetailsPage.goBackMessage	retour
+mortgage-app.propertyDetailsPage.submitText	CONTINUER
+mortgage-app.propertyDetailsPage.dollarValuePlaceholder	
+mortgage-app.ThankYouPage.yourApplicationSubmittedMessage	{firstName}, votre demande a maintenant été soumise à CanWise Hypothèques!
+mortgage-app.ThankYouPage.anyQuestionsMessage	
+mortgage-app.ThankYouPage.advisorContactMessage	
+mortgage-app.ThankYouPage.closingCostsLink	Tout savoir sur les frais de clôture
+mtg-app.user-details-page.title	
+mtg-app.user-details-page.subtitle	
+mtg-app.user-details-page.add-additional-applicant	
+mtg-app.user-details-page.privacy-policy.prompt	
+mtg-app.user-details-page.privacy-policy.label	
+mtg-app.user-details-page.continue	
+mtg-app.user-details-page.privacy-policy.message	
+mortgage-app.AddressStatusTypes.liveWithParentsStatus	Avec ses parents
+mortgage-app.AddressStatusTypes.ownPropertyStatus	Propriétaire
+mortgage-app.AddressStatusTypes.rentPropertyStatus	Locataire
+mortgage-app.AddressStatusTypes.ownLivePropertyStatus	Propriétaire
+mortgage-app.possessiveTemplate	
+mortgage-app.unnamedApplicantTemplate	
+mortgage-app.AssetTypes.depositAsset	Dépôt
+mortgage-app.AssetTypes.savingsAsset	Comptes épargnes
+mortgage-app.giftAsset	Don
+mortgage-app.AssetTypes.propertySaleAsset	Vente de propriété
+mortgage-app.AssetTypes.investmentAsset	Comptes de placement
+mortgage-app.AssetTypes.rrspAsset	REER
+mortgage-app.AssetTypes.otherAsset	Autre
+mortgage-app.EmploymentTypes.fullTime	Temps plein
+mortgage-app.EmploymentTypes.partTime	Temps partiel
+mortgage-app.EmploymentTypes.seasonal	Saisonnier
+mortgage-app.LenderTypes.ATB_FINANCIAL	
+mortgage-app.LenderTypes.AVEO_BY_CMLS_FINANCIAL	
+mortgage-app.LenderTypes.BFG_CAPITAL	
+mortgage-app.LenderTypes.LAURENTIAN_BANK_QUEBEC	
+mortgage-app.LenderTypes.BAYVIEW_CREDIT_UNION	
+mortgage-app.LenderTypes.BLUESHORE_FINANCIAL_CREDIT_UNION	
+mortgage-app.LenderTypes.BLUEPRINT_MORTGAGES	
+mortgage-app.LenderTypes.CMLS_FINANCIAL	
+mortgage-app.LenderTypes.CANADIANA_FINANCIAL	
+mortgage-app.LenderTypes.CENTUM_MORTGAGE	
+mortgage-app.LenderTypes.COAST_CAPITAL_SAVINGS_CREDIT_UNION	
+mortgage-app.LenderTypes.COMMUNITY_SAVINGS_CREDIT_UNION	
+mortgage-app.LenderTypes.COMMUNITY_TRUST	
+mortgage-app.LenderTypes.ENVISION_FINANCIAL	
+mortgage-app.LenderTypes.EQUITABLE_BANK_EVOLUTION	
+mortgage-app.LenderTypes.EQUITABLE_BANK_ATLANTIC_CANADA	
+mortgage-app.LenderTypes.EQUITABLE_BANK_ONTARIO	
+mortgage-app.LenderTypes.EQUITABLE_BANK_QUEBEC	
+mortgage-app.LenderTypes.EQUITABLE_BANK_WESTERN_CANADA	
+mortgage-app.LenderTypes.EQUITY_FINANCIAL_TRUST	
+mortgage-app.LenderTypes.FIRST_NATIONAL_ALBERTA_SASKATCHEWAN_MANITOBA	
+mortgage-app.LenderTypes.FIRST_NATIONAL_BRITISH_COLUMBIA	
+mortgage-app.LenderTypes.FIRST_NATIONAL_ONTARIO_QUEBEC_ATLANTIC_CANADA	
+mortgage-app.LenderTypes.FIRST_ONTARIO_CREDIT_UNION	
+mortgage-app.LenderTypes.FIRST_SWISS_MORTGAGE	
+mortgage-app.LenderTypes.FIRST_SWISS_MORTGAGE_RES	
+mortgage-app.LenderTypes.G_AND_F_FINANCIAL_GROUP	
+mortgage-app.LenderTypes.HOMEQUITY_BANK_CHIP_REVERSE_MORTGAGE	
+mortgage-app.LenderTypes.HOMEQUITY_BANK_INCOME_ADVANTAGE	
+mortgage-app.LenderTypes.HOME_TRUST_COMPANY_ACCELERATOR	
+mortgage-app.LenderTypes.HOME_TRUST_COMPANY_CLASSIC	
+mortgage-app.LenderTypes.HOME_TRUST_COMPANY_COMMERCIAL	
+mortgage-app.LenderTypes.HOME_TRUST_COMPANY_ELV	
+mortgage-app.LenderTypes.IC_SAVINGS	
+mortgage-app.LenderTypes.INDUSTRIAL_ALLIANCE_HO	
+mortgage-app.LenderTypes.INDUSTRIAL_ALLIANCE_MONTREAL	
+mortgage-app.LenderTypes.INDUSTRIAL_ALLIANCE_QUEBEC	
+mortgage-app.LenderTypes.INTELLIMORTGAGE	
+mortgage-app.LenderTypes.ISLAND_SAVINGS	
+mortgage-app.LenderTypes.LA_CAPITALE_FINANCIAL	
+mortgage-app.LenderTypes.LEAGUE_SAVINGS_AND_MORTGAGE	
+mortgage-app.LenderTypes.LENDWISE_MORTGAGES	
+mortgage-app.LenderTypes.MLINK_MORTGAGE	
+mortgage-app.LenderTypes.MCAP_ECLIPSE	
+mortgage-app.LenderTypes.MCAP_PRIME	
+mortgage-app.LenderTypes.MFL_REFINANCE	
+mortgage-app.LenderTypes.MAGENTA_MORTGAGE_GROUP	
+mortgage-app.LenderTypes.MARATHON_MORTGAGE	
+mortgage-app.LenderTypes.MORTGAGE_ONE	
+mortgage-app.LenderTypes.MORTGAGE_POINT_FINANCIAL	
+mortgage-app.LenderTypes.NATIONAL_BANK_TORONTO	
+mortgage-app.LenderTypes.OPTIMUM_MORTGAGE	
+mortgage-app.LenderTypes.PARTNER_MORTGAGE_ALTB	
+mortgage-app.LenderTypes.PARTNER_MORTGAGE_PRIME	
+mortgage-app.LenderTypes.PILLAR_FINANCIAL	
+mortgage-app.LenderTypes.RMG_MORTGAGES	
+mortgage-app.LenderTypes.RMG_ECLIPSE	
+mortgage-app.LenderTypes.RADIUS_FINANCIAL	
+mortgage-app.LenderTypes.SAVECAPITAL_FINANCIAL	
+mortgage-app.LenderTypes.SERVUS_CREDIT_UNION	
+mortgage-app.LenderTypes.SIMPLICIT	
+mortgage-app.LenderTypes.SURELINE	
+mortgage-app.LenderTypes.VERICO_CANADIAN_HOME_BUYERS_MORTGAGE	
+mortgage-app.LenderTypes.VERICO_LIFECYCLE_MORTGAGE	
+mortgage-app.LenderTypes.VERICO_MORTGAGE_EVOLUTION	
+mortgage-app.LenderTypes.VALLEY_FIRST_CREDIT_UNION	
+mortgage-app.LenderTypes.WEALTHLINE	
+mortgage-app.LenderTypes.WESTMINSTER_SAVINGS	
+mortgage-app.LenderTypes.XCEED_MORTGAGE	
+mortgage-app.LenderTypes.OTHER	Autre
+mortgage-app.LenderTypes.BANK_OF_MONTREAL	
+mortgage-app.LenderTypes.CANADIAN_WESTERN_BANK	
+mortgage-app.LenderTypes.CIBC	
+mortgage-app.LenderTypes.COAST_CAPITAL	
+mortgage-app.LenderTypes.DUCA	
+mortgage-app.LenderTypes.EQUITABLE_BANK	
+mortgage-app.LenderTypes.FIRST_NATIONAL	
+mortgage-app.LenderTypes.HOME_TRUST	
+mortgage-app.LenderTypes.HSBC	
+mortgage-app.LenderTypes.INDUSTRIAL_ALLIANCE	
+mortgage-app.LenderTypes.ING	
+mortgage-app.LenderTypes.MCAP	
+mortgage-app.LenderTypes.NATIONAL_BANK	
+mortgage-app.LenderTypes.PRESIDENTS_CHOICE_FINANCIAL	
+mortgage-app.LenderTypes.ROYAL_BANK_OF_CANADA	
+mortgage-app.LenderTypes.RMG	
+mortgage-app.LenderTypes.TANGERINE	
+mortgage-app.LenderTypes.VANCITY	
+mortgage-app.LenderTypes.ALTERNA_SAVINGS	
+mortgage-app.LenderTypes.B2B_BANK	
+mortgage-app.LenderTypes.BRIDGEWATER_BANK	
+mortgage-app.LenderTypes.DESJARDINS	
+mortgage-app.LenderTypes.ICICI_BANK_CANADA	
+mortgage-app.LenderTypes.MANULIFE_BANK_OF_CANADA	
+mortgage-app.LenderTypes.MERIDIAN_CREDIT_UNION	
+mortgage-app.LenderTypes.MERIX_FINANCIAL	
+mortgage-app.LenderTypes.SCOTIABANK	
+mortgage-app.LenderTypes.STREET_CAPITAL_FINANCIAL	
+mortgage-app.LenderTypes.TD_CANADA_TRUST	
+mortgage-app.IncomeTypes.salaryOption	Salaire
+mortgage-app.IncomeTypes.fullTimeHourlyOption	Temps plein, de l’heure
+mortgage-app.IncomeTypes.partTimeHourlyOption	Temps partiel, de l’heure
+mortgage-app.IncomeTypes.selfEmployedOption	Travailleur autonomne
+mortgage-app.IncomeTypes.otherIncomeOption	Autre
+mortgage-app.IntendedUseTypes.rental	Location
+mortgage-app.IntendedUseTypes.owner-occupied	Propriétaire occupant
+mortgage-app.IntendedUseTypes.second-home	Deuxième résidence
+mortgage-app.IntendedUseTypes.owner-occupied-and-rental	Propriétaire occupant et location
+mortgage-app.IntentionTypes.plan-to-sell	Je n'ai pas encore vendu, mais j'en ai l'intention
+mortgage-app.IntentionTypes.sale-agreement-signed	J'ai vendu (contrat de vente signé)
+mortgage-app.IntentionTypes.will-keep	Je la garde
+mortgage-app.NumApplicantsTypes.oneApplicant	
+mortgage-app.NumApplicantsTypes.twoApplicants	
+mortgage-app.NumApplicantsTypes.moreThanTwoApplicants	
+mortgage-app.PaymentFrequencyTypes.accelerated-weekly	Accéléré à toutes les semaines
+mortgage-app.PaymentFrequencyTypes.biweekly	Bihebdomadaire
+mortgage-app.PaymentFrequencyTypes.semimonthly	Bimensuel
+mortgage-app.PaymentFrequencyTypes.monthly	Mensuel
+mortgage-app.PaymentFrequencyTypes.accelerated-biweekly	Accéléré aux deux semaines
+mortgage-app.PaymentFrequencyTypes.weekly	Hebdomadaire
+mortgage-app.PropertyTypes.propertyTypeCondo	Copropriété
+mortgage-app.PropertyTypes.propertyTypeDetached	Détaché
+mortgage-app.PropertyTypes.propertyTypeTownhouse	Maisons en rangée
+mortgage-app.PropertyTypes.propertyTypeSemiDetached	Jumelée
+mortgage-app.PurchaseStatusTypes.iveFoundAProperty	
+mortgage-app.PurchaseStatusTypes.imStillLooking	
+mortgage-app.RefinancePurposeTypes.accessHomeEquity	
+mortgage-app.RefinancePurposeTypes.lowerInterestRate	
+mortgage-app.RefinancePurposeTypes.consolidateDebt	
+mortgage-app.RefinancePurposeTypes.other	
+mortgage-app.RelationshipTypes.spouse	
+mortgage-app.RelationshipTypes.commonlaw	
+mortgage-app.RelationshipTypes.parent	
+mortgage-app.RelationshipTypes.sibling	
+mortgage-app.RelationshipTypes.child	
+mortgage-app.RelationshipTypes.other	
+mortgage-app.ScenarioTypes.purchase	
+mortgage-app.ScenarioTypes.renewal	
+mortgage-app.ScenarioTypes.refinance	
+mortgage-app.ScenarioTypes.heloc	
+mortgage-app.UploadState.uploading	
+mortgage-app.UploadState.uploaded	
+mortgage-app.UploadState.error	
+mortgage-app.yesOption	Oui
+mortgage-app.noOption	Non
+mortgage-app.functions.formattedStreetAddress	
+mortgage-app.EmploymentHistoryItem.endDate.beforeStartDateError	Doit être après la date de début
+mortgage-app.mortgageNeedsPage.dollarsNotNegative	
+mortgage-app.mortgageNeedsPage.fivePercentDown	
+mortgage-app.mortgageNeedsPage.closingMustBeFuture	
+mortgage-app.mortgageNeedsPage.renewalMustBeFuture	
+mortgage-app.mortgageNeedsPage.refinanceMustBeFuture	
+mortgage-app.propertyDetailsPage.acquiredMustBePast	
+Mortgages.CurrencyWithPercentQuestion.dollarValuePlaceholder	
+Mortgages.CurrencyWithPercentQuestion.percentValuePlaceholder	
+Mortgages.ApplicantDetailsEditor.pageTitle	Nombre de demandeurs.
+Mortgages.ApplicantDetailsEditor.howManyApplicants	Nombre de demandeurs.
+Mortgages.ApplicantDetailsEditor.howManyApplicantsTooltip	<p> Souhaitez-vous faire une demande d'hypothèque à votre nom seul ou avec d'autres emprunteurs? </p> <p> Veuillez indiquer le nombre de personnes qui feront une demande d'hypothèque. </p>
+Mortgages.ApplicantDetailsEditor.numberOfApplicants	Nombre de demandeurs.
+Mortgages.ApplicantDetailsEditor.numberOfApplicantsPlaceholder	entrez ombre de demandeurs.
+Mortgages.ApplicantDetailsEditor.submitButton	continuer
+Mortgages.ApplicantDetailsEditor.Applicant.1	
+Mortgages.ApplicantDetailsEditor.Applicant.2	
+Mortgages.ApplicantDetailsEditor.Applicant.2+	
+mtg-wizard.helocRateResultsTable.subHeading	
+mtg-wizard.helocRateResultsTable.creditLimit.label	
+mtg-wizard.helocRateResultsTable.city.label	
+mtg-wizard.landing-page.title	
+mtg-wizard.landing-page.description	
+mtg-wizard.landing-page.new-mortgage.title	
+mtg-wizard.landing-page.new-mortgage.description	
+mtg-wizard.landing-page.existing-mortgage.title	
+mtg-wizard.landing-page.existing-mortgage.description	
+Mortgages.mortgageDetailsEditor.pageTitle	Quel type de prêt hypothécaire recherchez-vous?
+Mortgages.mortgageDetailsEditor.labelRateType	Quel type de taux souhaitez-vous?
+Mortgages.mortgageDetailsEditor.labelMortgageTerm	Quelle durée de prêt hypothécaire recherchez-vous?
+Mortgages.mortgageDetailsEditor.tooltipRateType	<p><strong>68% des Canadiens choisissent des prêts hypothécaires à taux fixe.</strong></p><p><strong>Fixes</strong></p><p>Avec un prêt hypothécaire à taux fixe, votre taux et le paiement mensuel restera constant pendant toute la durée de votre prêt hypothécaire.</p><p><strong>Variable</strong></p><p>Avec un prêt hypothécaire à taux variable, votre taux changera en même temps que le taux préférentiel (de votre prêteur).</p>
+Mortgages.mortgageDetailsEditor.tooltipMortgageTerm	<p><strong>80% des Canadiens choisissent un terme de 5 ans.</strong></p><p>Le terme de l'hypothèque correspond à la durée pendant laquelle vous vous engagez à respecter les règles, les conditions et le taux d'intérêt convenus. avec votre prêteur actuel. C'est la durée de votre contrat de prêt hypothécaire actuel.</p>
+Mortgages.mortgageDetailsEditor.submitButton	Continuer
+mtg-wizard.property-details-editor-HELOC.heading	
+mtg-wizard.property-details-editor-HELOC.city	
+mtg-wizard.property-details-editor-HELOC.city.tooltip	
+mtg-wizard.property-details-editor-HELOC.credit-limit	
+mtg-wizard.property-details-editor-HELOC.credit-limit.placeholder	
+mtg-wizard.property-details-editor-HELOC.credit-limit.tooltip	
+mtg-wizard.property-details-editor-HELOC.continue	
+Mortgages.PropertyDetailsEditorPurchase.pageTitle	Parlez-nous du logement que vous avez acheté
+Mortgages.PropertyDetailsEditorPurchase.locationPlaceholder	Veuillez entrer la ville
+Mortgages.PropertyDetailsEditorPurchase.labelLocationSelector	Dans quelle ville est située votre habitation?
+Mortgages.PropertyDetailsEditorPurchase.labelLiveInProperty	Habiterez-vous dans ce logement?
+Mortgages.PropertyDetailsEditorPurchase.labelPurchasePrice	Entrez le prix d'achat
+Mortgages.PropertyDetailsEditorPurchase.labelDownPayment	Quel est le montant de votre acompte?
+Mortgages.PropertyDetailsEditorPurchase.dollarValuePlaceholder	Entrez montant du prêt hypothécaire$
+Mortgages.PropertyDetailsEditorPurchase.labelInsurance	Assurance prêt hypothécaire (SCHL) :
+Mortgages.PropertyDetailsEditorPurchase.labelMortgageAmount	Montant du prêt hypothécaire :
+Mortgages.PropertyDetailsEditorPurchase.tooltipLocation	Veuillez entrer la ville où se trouve le logement que vous avez acheté.
+Mortgages.PropertyDetailsEditorPurchase.tooltipLiveInProperty	<p>Allez-vous habiter dans cette propriété?</p> <p>Les propriétés locatives et les propriétés à usage d’habitation ne disposent pas des mêmes taux hypothécaires.</p> <p>Répondez <strong>« Oui »</strong> si ce logement sera :</p> <ul> <li>votre résidence principale</li> <li>votre résidence secondaire ou logement de vacances</li> <li>une propriété locative dans laquelle vous habiterez également</li> </ul> <p>Répondez <strong>« Non »</strong> si vous ne résiderez pas du tout dans cette propriété.</p>
+Mortgages.PropertyDetailsEditorPurchase.tooltipPurchasePrice	<p>Le prix d'achat de votre logement détermine le montant minimum de l’acompte que vous pouvez verser.</p> <p>Si le prix d'achat est de :</p> <ul> <li><strong>500 000 $ ou moins</strong> – Votre acompte minimum est de 5 %</li> <li><strong>Entre 500 000 $ et 999 999 $</strong> – Votre acompte minimum est de 5 % pour les premiers 500 000 $ PLUS 10 % de la partie restante du prix de la propriété</li> <li><strong>1 000 000 $ ou plus</strong> – Votre acompte minimum est de 20 %</li> </ul>
+Mortgages.PropertyDetailsEditorPurchase.tooltipDownPayment	<p><strong>Au Canada, l'acompte minimum est de 5 %.</strong></p> <p><strong>Si votre acompte est inférieur à 20 %</strong>, vous serez admissible aux taux hypothécaires les plus bas disponibles, mais vous devrez <strong>acheter une assurance prêt hypothécaire</strong>.</p> <p>Si votre acompte est de 20 % ou plus, vous n'aurez pas besoin d'une assurance prêt hypothécaire, mais les taux hypothécaires auxquels vous serez admissible pourront être plus élevés.</p>
+Mortgages.PropertyDetailsEditorPurchase.tooltipInsurance	<p>L’assurance prêt hypothécaire sert à protéger les prêteurs dans le cas où l’emprunteur consécutivement cesse d'effectuer des paiements et n'est pas en mesure d’honorer son prêt hypothécaire.</p> <p><strong>Le montant indiqué ici correspond au prix de la prime d’assurance requise</strong>, calculé en fonction du montant de votre acompte.</p> <p><strong>Les logements dont le prix s’élève à 1 000 000 $ ou plus ne nécessitent pas d’assurance prêt hypothécaire</strong> car ils sont assujettis à un acompte minimum de 20 %.</p>
+Mortgages.PropertyDetailsEditorPurchase.tooltipMortgageAmount	<p>Le montant de votre prêt hypothécaire est égal à :</p> <p><strong>Prix du logement</strong> - <strong>Montant de l’acompte</strong> + <strong>Assurance prêt hypothécaire de la SCHL</strong></p>
+Mortgages.PropertyDetailsEditorPurchase.submitButton	Continuer
+mtg-wizard.property-details-editor-refinance.header	Parlez-nous de votre chez-vous
+mtg-wizard.property-details-editor-refinance.city	Dans quelle ville est située votre habitation?
+mtg-wizard.property-details-editor-refinance.city.tooltip	Veuillez entrer la ville du logement pour lequel votre prêt hypothécaire arrive à échéance
+mtg-wizard.property-details-editor-refinance.mortgage-balance	Quel est votre solde hypothécaire actuel?
+mtg-wizard.property-details-editor-refinance.mortgage-balance.tooltip	Ceci est le solde restant de votre prêt hypothécaire. Cela nous permettra de vous montrer le nouveau montant de votre paiement mensuel.
+mtg-wizard.property-details-editor-refinance.renewal-date	Quelle est la date d’échéance de votre prêt hypothécaire actuel?
+mtg-wizard.property-details-editor-refinance.renewal-date.tooltip	
+mtg-wizard.property-details-editor-refinance.remaining-amortization	Quel est le montant de votre amortissement restant à la date d’échéance?
+mtg-wizard.property-details-editor-refinance.remaining-amortization.placeholder	1-29 ans
+mtg-wizard.property-details-editor-refinance.remaining-amortization.tooltip	<p>Cela nous permettra de calculer le nouveau montant de votre paiement mensuel</p><p>Par exemple : <br>Si la durée de votre amortissement initial est de 30 ans et que votre terme initial de 5 ans arrive à échéance, il vous reste 25 ans d'amortissement.</p>
+mtg-wizard.property-details-editor-refinance.live-in-property	Habitez-vous dans cette propriété?
+mtg-wizard.property-details-editor-refinance.live-in-property.tooltip	<p>Habitez-vous dans cette propriété?</p><p>Les propriétés locatives et les propriétés à usage d’habitation ne disposent pas des mêmes taux hypothécaires.</p><p>Répondez <strong>Oui</strong> si ce logement est :</p> <p><ul><li>votre résidence principale</li><li> votre résidence secondaire ou logement de vacances</li><li>une propriété dans laquelle vous habitez et qui dispose d'une section locative</li></ul></p> <p>Répondez <strong>Non</strong> s'il s'agit d’une propriété locative.</p>
+mtg-wizard.property-details-editor-refinance.additional-funds	Quel est le montant d'emprunt supplémentaire dont vous avez besoin?
+mtg-wizard.property-details-editor-refinance.additional-funds.tooltip	Cela nous permettra de vous montrer votre nouveau montant de versement mensuel.
+mtg-wizard.property-details-editor-refinance.continue	Continuer
+mtg-wizard.property-details-editor-refinance.amount-placeholder	Entrez montant du prêt hypothécaire$
+Mortgages.PropertyDetailsEditorRenew.pageTitle	Parlez-nous de votre chez-vous
+Mortgages.PropertyDetailsEditorRenew.labelLocation	Dans quelle ville est située votre habitation?
+Mortgages.PropertyDetailsEditorRenew.labelMortgageBalance	Quel est votre solde hypothécaire actuel?
+Mortgages.PropertyDetailsEditorRenew.labelRenewalDate	Quelle est la date d’échéance de votre prêt hypothécaire actuel?
+Mortgages.PropertyDetailsEditorRenew.labelRemainingAmortization	Quel est le montant de votre amortissement restant à la date d’échéance?
+Mortgages.PropertyDetailsEditorRenew.labelLiveInProperty	Habitez-vous dans cette propriété?
+Mortgages.PropertyDetailsEditorRenew.labelDownPaymentRequiredCmhcInsurance	Quelle était la valeur de votre acompte lorsque vous avez acheté la propriété :
+Mortgages.PropertyDetailsEditorRenew.locationPlaceholder	Veuillez entrer la ville
+Mortgages.PropertyDetailsEditorRenew.dollarValuePlaceholder	Entrez montant du prêt hypothécaire$
+Mortgages.PropertyDetailsEditorRenew.remainingAmortizationPlaceholder	1-29 ans
+Mortgages.PropertyDetailsEditorRenew.tooltipLocation	Veuillez entrer la ville du logement pour lequel votre prêt hypothécaire arrive à échéance
+Mortgages.PropertyDetailsEditorRenew.tooltipMortgageBalance	Ceci est le solde restant de votre prêt hypothécaire. Cela nous permettra de vous montrer le nouveau montant de votre paiement mensuel.
+Mortgages.PropertyDetailsEditorRenew.tooltipRenewalDate	Veuillez entrer la date d’échéance de votre prêt hypothécaire
+Mortgages.PropertyDetailsEditorRenew.tooltipLiveInProperty	<p>Habitez-vous dans cette propriété?</p><p>Les propriétés locatives et les propriétés à usage d’habitation ne disposent pas des mêmes taux hypothécaires.</p><p>Répondez <strong>Oui</strong> si ce logement est :</p> <p><ul><li>votre résidence principale</li><li> votre résidence secondaire ou logement de vacances</li><li>une propriété dans laquelle vous habitez et qui dispose d'une section locative</li></ul></p> <p>Répondez <strong>Non</strong> s'il s'agit d’une propriété locative.</p>
+Mortgages.PropertyDetailsEditorRenew.tooltipRemainingAmortization	<p>Cela nous permettra de calculer le nouveau montant de votre paiement mensuel</p><p>Par exemple : <br>Si la durée de votre amortissement initial est de 30 ans et que votre terme initial de 5 ans arrive à échéance, il vous reste 25 ans d'amortissement.</p>
+Mortgages.PropertyDetailsEditorRenew.tooltipDownPaymentRequiredCmhcInsurance	Cela nous aidera à déterminer si votre prêt hypothécaire est assurable, car cela vous permet d'accéder à des taux de renouvellement plus bas
+Mortgages.PropertyDetailsEditorRenew.submitButton	Continuer
+Mortgages.PropertyDetailsEditorRenew.labelIsDownPaymentLessThan20Percent	
+mtg-wizard.RateResultsFilter.scenarioSubHeading	
+mtg-wizard.RateResultsFilter.rateTypeLabel	
+mtg-wizard.RateResultsFilter.termLabel	
+mtg-wizard.RateResultsFilter.purchasePriceLabel	
+mtg-wizard.RateResultsFilter.downPaymentDollarsLabel	
+mtg-wizard.RateResultsFilter.downPaymentPercentLabel	
+mtg-wizard.RateResultsFilter.frequencyLabel	
+mtg-wizard.RateResultsFilter.amortizationLabel	
+mtg-wizard.RateResultsFilter.liveInPropertyLabel	
+mtg-wizard.RateResultsFilter.preApprovalLabel	
+mtg-wizard.RateResultsFilter.toggleExpanded	
+mtg-wizard.RateResultsFilter.toggleExpandedMore	
+mtg-wizard.RateResultsFilter.toggleExpandedFewer	
+mtg-wizard.RateResultsFilter.purchasePricePlaceholder	
+mtg-wizard.RateResultsFilter.downPaymentPercentPlaceholder	
+mtg-wizard.RateResultsFilter.downPaymentDollarsPlaceholder	
+mtg-wizard.RateDetails.rateInfoHeading	
+mtg-wizard.RateDetails.monthlyPrepayment	
+mtg-wizard.RateDetails.lumpSumPrepayment	
+mtg-wizard.RateDetails.rateHoldUntil	
+mtg-wizard.RateDetails.preApproval	
+mtg-wizard.RateDetails.preApprovalYes	
+mtg-wizard.RateDetails.notAvailable	
+mtg-wizard.RateResultCard.rateValue	
+mtg-wizard.RateResultCard.differenceFromPrimeLabel	
+mtg-wizard.RateResultCard.monthlyPayment	
+mtg-wizard.RateResultCard.inquireButtonLabel	
+mtg-wizard.RateResultsHeader.compareRates	
+mtg-wizard.RateResultsHeader.resultsListIntro	
+mtg-wizard.RateList.invalidScenario	
+mtg-wizard.RateList.noRatesFound	
+mtg-wizard.RateList.buttonLabel	
+mtg-wizard.RateList.buttonLabelMore	
+mtg-wizard.RateList.buttonLabelFewer	
+mtg-wizard.RefinanceRateResultsFilter.scenarioSubHeading	
+mtg-wizard.RefinanceRateResultsFilter.toggleExpanded	
+mtg-wizard.RefinanceRateResultsFilter.toggleExpandedMore	
+mtg-wizard.RefinanceRateResultsFilter.toggleExpandedFewer	
+mtg-wizard.RefinanceRateResultsFilter.currentMortgageBalance.label	
+mtg-wizard.RefinanceRateResultsFilter.additionalFundsNeeded.label	
+mtg-wizard.RefinanceRateResultsFilter.totalMortgageNeeded.label	
+mtg-wizard.RefinanceRateResultsFilter.rateType.label	
+mtg-wizard.RefinanceRateResultsFilter.term.label	
+mtg-wizard.RefinanceRateResultsFilter.city.label	
+mtg-wizard.RefinanceRateResultsFilter.amortization.label	
+mtg-wizard.RefinanceRateResultsFilter.occupied.label	
+mtg-wizard.RefinanceRateResultsFilter.frequency.label	
+mtg-wizard.RenewalRateResultsFilter.scenarioSubHeading	
+mtg-wizard.RenewalRateResultsfilter.currentMortgageBalance.label	
+mtg-wizard.RenewalRateResultsFilter.downPaymentInsuranceRequired.label	
+mtg-wizard.RenewalRateResultsFilter.city.label	
+mtg-wizard.RenewalRateResultsFilter.rateType.label	
+mtg-wizard.RenewalRateResultsFilter.term.label	
+mtg-wizard.RenewalRateResultsFilter.frequency.label	
+mtg-wizard.RenewalRateResultsFilter.amortization.label	
+mtg-wizard.RenewalRateResultsFilter.occupied.label	
+mtg-wizard.RenewalRateResultsFilter.preApproval.label	
+mtg-wizard.RenewalRateResultsFilter.toggleExpanded	
+mtg-wizard.RenewalRateResultsFilter.toggleExpandedMore	
+mtg-wizard.RenewalRateResultsFilter.toggleExpandedFewer	
+Mortgages.scenarioChooserNewMortgage.pageTitle	Comment pouvons-nous vous aider?
+Mortgages.navigationCards.signedOfferLabel	J'ai signé une offre d'achat
+Mortgages.navigationCards.signedOfferDescription	Prenez 2 minutes pour répondre à quelques questions et découvrez les taux les plus bas que vous pouvez obtenir
+Mortgages.navigationCards.activelyLookingLabel	Je recherche activement un logement
+Mortgages.navigationCards.activelyLookingDescription	Comparez les taux d'approbation préalable pour faciliter votre recherche de logement
+Mortgages.navigationCards.thinkingAboutBuyingLabel	Je pense à l'achat d'un logement
+Mortgages.navigationCards.thinkingAboutBuyingDescription	Consultez les meilleurs taux du moment et obtenez une idée du montant que vous pouvez investir
+scenarioChooserNewMortgage.pageTitle	Comment pouvons-nous vous aider?
+Mortgages.navigationCards.renewalLabel	Mon prêt hypothécaire arrive à échéance
+Mortgages.navigationCards.renewalDescription	Comparez le taux de renouvellement de votre prêteur actuel avec celui d'autres fournisseurs
+Mortgages.navigationCards.refinanceLabel	Je veux refinancer mon prêt hypothécaire
+Mortgages.navigationCards.refinanceDescription	Besoin de changer les conditions de votre prêt hypothécaire? Consultez les taux de refinancement actuellement disponibles
+Mortgages.navigationCards.helocLabel	Je veux obtenir une marge de crédit hypothécaire (LDCVD)
+Mortgages.navigationCards.helocDescription	Besoin d'une marge de crédit pour accéder à la valeur nette de votre logement? Consultez les meilleurs taux LDCVD du moment
+mtg-wizard.thank-you-page.back.button	
+mtg-wizard.thank-you-page.congratulations.header	
+mtg-wizard.thank-you-page.start-application.header	
+mtg-wizard.thank-you-page.start-application.description	
+mtg-wizard.thank-you-page.start-application.button	
+mtg-wizard.thank-you-page.inquiry-sent.text	
+mtg-wizard.thank-you-page.provider-is-brokered-disclosure	
+Mortgages.userDetailsEditor.placeholderFullName	Entrez votre nom
+Mortgages.userDetailsEditor.placeholderPhone	###-###-####
+Mortgages.userDetailsEditor.pageTitle	Parlez-nous un peu de vous
+Mortgages.userDetailsEditor.labelFullName	Quel est votre nom?
+Mortgages.userDetailsEditor.labelPhoneNumber	Quel est votre numéro de téléphone?
+Mortgages.userDetailsEditor.labelEmail	Quelle est votre adresse courriel?
+Mortgages.userDetailsEditor.submitButton	Afficher mes taux
+Mortgages.termInYears	
+Mortgages.mortgageDetailsStep.name	Détails de l'hypothèque
+Mortgages.mortgageDetailsEditor.rateType.fixed	
+Mortgages.mortgageDetailsEditor.rateType.variable	
+Mortgages.propertyDetailsEditor.lessThanFiveHundredThousandValidationFailure	Doit être compris entre 5 % et 100 %
+Mortgages.propertyDetailsEditor.betweenFiveHundredThousandAndOneMillionValidationFailure	Doit être de 5 % pour les premiers 500 000 $, plus 10 % de la partie restante
+Mortgages.propertyDetailsEditor.moreThanOneMillionValidationFailure	Doit être d'au moins 20 %
+Mortgages.propertyDetailsStep.name	Détails de la propriété
+Mortgages.propertyDetailsEditor.liveInPropertyYes	Oui
+Mortgages.propertyDetailsEditor.liveInPropertyNo	Non
+PropertyDetailsEditorRenew.amortizationOutOfRange	L'amortissement restant doit être compris entre 1 et 29 ans
+mtg-wizard.property-details-editor.additional-funds.too-low	Veuillez saisir un nombre supérieur ou égal à 0.
+mtg-wizard.property-details-editor.renewal-date.in-past	Veuillez saisir un mois qui n'est pas ultérieur.
+
+mortgages.RateResultsFilter.monthly	
+mortgages.RateResultsFilter.semiMonthly	
+mortgages.RateResultsFilter.biWeekly	
+mortgages.RateResultsFilter.acceleratedBiWeekly	
+Mortgages.UserDetailsStep.name	Vos coordonnées
+web-components.authorStamp.dateFormat
+BlogSpotlight.image.hoverText	En savoir plus
+WebComponents.Carousel.BackLabel	
+WebComponents.Carousel.NextLabel	
+WebComponents.Carousel.NavigateToCardLabel	
+FeaturedProduct.banner.sponsored	Commandité
+FeaturedProduct.banner.featured	En vedette
+FeaturedProduct.banner.promoOffer	
+web-components.LinkBlockList.viewMore	Montre plus
+web-components.LinkBlockList.viewLess	Montrer moins
+"web-components.NavigationListItem.reading-time	
+web-components.ProductCta.label	plus de détails
+web-components.ProductCta.giftLabel	carte-cadeau gratuite
+web-components.productTable.lastUpdatedText	Taux en vigueur
+web-components.ProductTableRewardsList.pointsPerDollar	pts/$1 pour
+web-components.ProductTableRewardsList.gas	Essence
+web-components.ProductTableRewardsList.groceries	Épiceries
+web-components.ProductTableRewardsList.bills	Factures
+web-components.ProductTableRewardsList.restaurants	Restaurants
+web-components.ProductTableRewardsList.entertainment	Divertissement
+web-components.ProductTableRewardsList.travel	Voyages
+web-components.ProductTableRewardsList.pharmacy	Pharmacie
+web-components.ProductTableRewardsList.other	Autres achats
+web-components.ResponsiveTable.labelIsExpanded	{isExpanded, select, false {Plus} true {Moins}}
+web-components.ResponsiveTable.noRowDataMessage	Aucun taux n'est applicable selon ces critères de recherches.
+web-components.businessUnits.mortgages	Hypothèques
+web-components.businessUnits.credit_cards	Cartes de crédit
+web-components.businessUnits.banking	Comptes
+web-components.businessUnits.investing	Placements
+web-components.businessUnits.insurance	Assurance
+web-components.businessUnits.all	Tout
+base-ui.FeaturedProductShowcase.promo-highlight-one-vertical
+base-ui.FeaturedProductShowcase.promo-highlight-two-verticals
+base-ui.FeaturedProductShowcase.promo-highlight-more-than-two-verticals
+web-components.mortgageTerms.typesFixed	Fize
+web-components.mortgageTerms.typesVariable	Variable
+web-components.mortgageTerms.allTerms	Tous
+web-components.mortgageTerms.purchase	Acheter une maison
+web-components.mortgageTerms.renewal	Renouveler
+web-components.mortgageTerms.heloc	Refinancer
+web-components.mortgageTerms.home_equity	Marge de crédit hypothécaire
+web-components.ProductTable.sponsored	Commandité
+web-components.ProductTable.featured	En vedette
+web-components.ProductTableMortgages.termByYear	{value} ans
+web-components.ProductTableMortgages.tableRate	Taux
+web-components.ProductTableMortgages.tableTerm	Durée
+web-components.ProductTableMortgages.tableType	Type
+web-components.ProductTableMortgages.tableProvider	Fournisseur
+web-components.ProductTableMortgages.tableCTA
+web-components.ProductTableCreditCardScenarios.tableCard	carte
+web-components.ProductTableCreditCardScenarios.annualFee	frais annuel
+web-components.ProductTableCreditCardScenarios.bestUsedFor	mieux utilisé pour
+web-components.ProductTableCCLowInterest.purchaseInterestRate	taux d’intérêts sur achats
+web-components.ProductTableCCBalanceTransfer.balanceTransferOffer	l'offre de transfert de solde
+web-components.ProductTableCCBalanceTransfer.balanceTransferRate	Taux de de transfert de solde
+web-components.ProductTableCCBalanceTransfer.rateUntil	Premiers {term} mois
+web-components.ProductTableCCBalanceTransfer.rateAfter	Après {term} mois
+web-components.ProductTableCCRewards.rewards	Récompenses
+web-components.ProductTableCCRewards.cashBack	Remise en argent
+web-components.creditCardRateTable.cashBackLabel	Remise en argent
+web-components.creditCardRateTable.travelLabel	voyages
+web-components.creditCardRateTable.storeCreditLabel	Rabais en magasin
+web-components.creditCardRateTable.rewardsLabel	Récompenses
+web-components.creditCardRateTable.lowInterestLabel	Faible taux d’intérêt
+web-components.creditCardRateTable.balanceTransferLabel	Transfert de solde
+web-components.creditCardRateTable.securedLabel	Garantie
+web-components.creditCardRateTable.cardNoFee	aucun frais annuel
+web-components.creditCardRateTable.cardAnyFee	Peu importe frais annuels
+web-components.creditCardRateTable.lastUpdatedText	Taux en vigueur
+web-components.creditCardRateTable.fieldOneLeftText	les meilleures {scenario} cartes avec
+web-components.creditCardRateTable.fieldTwoLeftText	De
+web-components.creditCardRateTable.allProviders	Tous les fournisseurs
+web-components.creditCardRateTable.noFeeText	les meilleures aucun frais annuel cartes de
+web-components.mortgageRateTable.lastUpdatedText	Taux en vigueur
+web-components.mortgageRateTable.fieldOneLeftText	Voici les meilleurs
+web-components.mortgageRateTable.fieldTwoRightText	taux hypothécaires pour
+web-components.mortgageRateTable.fieldTwoRightTextHeloc	Taux hypothécaires pour
+cc.card.cta-heading
+cc.card.cta-message
+cc.card.cta-button-text
+cc.card.cta-URL
+cf-meta-title	Trouvez la carte de crédit qui correspond à vos besoins | Ratehub.ca
+cf-meta-description	Trouvez la carte de crédit qui correspond à vos besoins (cela prendra moins de 2 minutes)
+FooterNavgation.contactHeadingTitle	Contactez
+FooterNavgation.brokerLoginLabel	Accès des courtiers
+FooterNavgation.affiliateLoginLabel	Accès des partenaires
+FooterNavgation.popularContentLabel	Contenu populaire
+FooterNavigation.addressLineOne	Suite 1100
+FooterNavigation.addressLineTwo	4e étage
+FooterNavigation.addressCityAndPostcode	Toronto, ON M5H 3R3
+FooterNavigation.addressTelephone	1.800.679.9622
+FooterNavgation.popularContentHeadingTitle	Contenu populaire
+mn-menu-title	Je m’intéresse aux produits suivants
+mn-menu-mobile-visit-page-verb	Visitez {pageTitle}
+mn-expandedList-showLess	plus
+mn-expandedList-showMore	moins
+Accounts.header.descriptionLabel	
+Accounts.header.userGreeting	
+Accounts.header.signOutLabel	
+Accounts.header.signInLabel	
